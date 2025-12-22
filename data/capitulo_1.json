@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": "Según el capítulo, ¿qué describe mejor a la Biblia y cuántos libros contiene en el Antiguo y Nuevo Testamento?",
+    "options": {
+      "A": "Es una biblioteca de libros: 39 en el Antiguo Testamento y 27 en el Nuevo Testamento.",
+      "B": "Es un solo libro escrito por un único autor: 27 en el Antiguo Testamento y 39 en el Nuevo Testamento.",
+      "C": "Es una colección de tradiciones orales sin libros definidos: 50 en el Antiguo Testamento y 16 en el Nuevo Testamento."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál de las siguientes opciones refleja la variedad de material literario que el capítulo menciona que aparece en la Biblia?",
+    "options": {
+      "A": "Solo mitos y fábulas modernas escritas en lenguaje científico.",
+      "B": "Narraciones, leyes, instrucciones para rituales, poesías/cantos, sermones, profecías, dichos sapienciales, parábolas, cartas y genealogías.",
+      "C": "Únicamente poemas y canciones, sin relatos históricos ni cartas."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál opción resume correctamente el marco temporal y el proceso de compilación descritos en el capítulo?",
+    "options": {
+      "A": "Escrita completa en una sola generación durante el siglo I d. C.",
+      "B": "Desde el siglo V a. C. hasta el siglo V d. C., compilada en unos 200 años.",
+      "C": "Desde la época de Moisés (siglo XV a. C.) hasta fines del siglo I d. C., compilada a lo largo de aproximadamente 1.600 años."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Según el capítulo, ¿qué se destaca como sorprendente respecto de los libros bíblicos, pese a su diversidad de autores y épocas?",
+    "options": {
+      "A": "Que no guardan relación entre sí y se contradicen deliberadamente.",
+      "B": "Que fueron escritos necesariamente en el mismo orden en que aparecen hoy.",
+      "C": "Que desarrollan temas comunes con una unidad total a lo largo del tiempo."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Al revisar de manera general la Biblia, ¿qué se observa como el hilo conductor que la unifica en su totalidad?",
+    "options": {
+      "A": "El desarrollo gradual del plan o propósito de Dios para anular los efectos del pecado humano y establecer una nueva creación.",
+      "B": "Un registro político que explica solamente el origen de Israel como nación.",
+      "C": "Una colección de enseñanzas morales desconectadas entre sí, sin un propósito global."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "Según el capítulo, otra forma de describir el proceso del plan de salvación es hablar de:",
+    "options": {
+      "A": "La sustitución completa del Antiguo Testamento por libros modernos.",
+      "B": "El establecimiento del “reino de Dios”.",
+      "C": "La eliminación de toda cultura y literatura antigua."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "¿Con qué se dice que el plan de salvación llega a su culminación y cumplimiento?",
+    "options": {
+      "A": "Con el cautiverio babilónico.",
+      "B": "Con el ministerio de Jesucristo.",
+      "C": "Con el reinado de Salomón."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "En el “gráfico simple” del mensaje bíblico, ¿cuál es el orden que mejor representa las etapas presentadas?",
+    "options": {
+      "A": "Caída → Creación → Reino de Dios → Nueva creación → Difusión del evangelio → Salvación.",
+      "B": "Reino de Dios → Nueva creación → Caída → Creación → Salvación → Difusión.",
+      "C": "Creación → Caída → Salvación en la historia → Difusión del evangelio → Reino de Dios → Nueva creación."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Según la unidad, ¿cuál es la división más evidente dentro de la Biblia que el curso busca explorar en su relación?",
+    "options": {
+      "A": "Entre el libro de Génesis y el libro de Apocalipsis solamente.",
+      "B": "Entre el Antiguo Testamento y el Nuevo Testamento.",
+      "C": "Entre los libros poéticos y los libros históricos únicamente."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Según el capítulo, el orden de libros del Antiguo Testamento en muchas Biblias (Génesis a Ester; Job a Cantar; Isaías a Malaquías) sigue:",
+    "options": {
+      "A": "El orden original hebreo sin ninguna variante.",
+      "B": "Un orden moderno definido por editores del siglo XX.",
+      "C": "El orden de la traducción griega llamada Septuaginta."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "¿Qué afirma el capítulo sobre la Septuaginta?",
+    "options": {
+      "A": "Es una traducción griega del Antiguo Testamento hecha a partir del hebreo, iniciada en el siglo III a. C.",
+      "B": "Es una traducción latina del Nuevo Testamento escrita en el siglo I d. C.",
+      "C": "Es un comentario rabínico medieval que reemplaza el texto bíblico."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Según el capítulo, el orden hebreo del Antiguo Testamento es útil porque:",
+    "options": {
+      "A": "Elimina la necesidad de leer los profetas y los escritos.",
+      "B": "Muestra el significado de las diferentes partes y cómo se relacionan entre sí.",
+      "C": "Evita toda referencia histórica y se enfoca solo en poesía."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "¿Cuáles son las tres partes principales del Antiguo Testamento en el orden hebreo que presenta el capítulo?",
+    "options": {
+      "A": "La tradición oral, los concilios y los credos.",
+      "B": "Los Evangelios, Hechos y Apocalipsis.",
+      "C": "La Ley, los Profetas y los Escritos."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "Según el capítulo, los primeros cinco libros fueron llamados por los judíos “la Ley” y también se les llamó:",
+    "options": {
+      "A": "La Septuaginta (“setenta traductores”).",
+      "B": "El Pentateuco (“cinco rollos”).",
+      "C": "El Talmud (“comentarios”)."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Según el capítulo, cuando los judíos hablaban de “la Ley” (Torá), no se referían solo a reglas, sino también a:",
+    "options": {
+      "A": "La enseñanza básica de Dios mediante la cual se entiende el resto de la Biblia.",
+      "B": "Una lista de calendarios agrícolas sin relación con la fe.",
+      "C": "Un registro de proverbios exclusivamente para la vida cotidiana."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "¿Cuál de las siguientes ideas aparece en el breve resumen de “la Ley” que ofrece el capítulo?",
+    "options": {
+      "A": "La vida pública de Jesús y las cartas de Pablo.",
+      "B": "La historia de la iglesia durante la Edad Media.",
+      "C": "Creación, rebelión humana y llamado de Abraham para traer bendición a todas las naciones."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Según el capítulo, ¿por qué a Josué, Jueces, 1–2 Samuel y 1–2 Reyes se les llama “los Profetas Anteriores”?",
+    "options": {
+      "A": "Porque presentan la historia desde el punto de vista de Dios y resaltan la importancia de los profetas en el plan divino.",
+      "B": "Porque fueron escritos después del exilio y son totalmente apocalípticos.",
+      "C": "Porque narran únicamente conquistas militares con fechas exactas."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "Según el capítulo, ¿qué enseñanza especial destacan 1 y 2 Samuel respecto del gobierno de Dios sobre su pueblo?",
+    "options": {
+      "A": "Que depende de la fuerza militar de Israel para mantenerse.",
+      "B": "Que está ligado a los reyes descendientes de David (p. ej., 2 Samuel 7:12-16).",
+      "C": "Que no tiene relación con ninguna promesa previa."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "¿Qué evento señala el capítulo como el juicio de Dios sobre el reino del norte (10 tribus) por su rebelión?",
+    "options": {
+      "A": "La conquista asiria y el exilio del año 722 a. C.",
+      "B": "La destrucción de Jerusalén por Roma en el año 70 d. C.",
+      "C": "La división del reino en el año 922 a. C. como exilio definitivo."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Según el capítulo, ¿qué ocurrió con Judá (reino del sur) y desde cuándo comenzó su exilio a Babilonia?",
+    "options": {
+      "A": "No fue exiliado; permaneció siempre en la tierra sin interrupción.",
+      "B": "Fue exiliado en varias etapas a partir del año 597 a. C., por su continua rebelión.",
+      "C": "Fue exiliado en una sola etapa en el año 722 a. C., por los asirios."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "Según el capítulo, los “Profetas Posteriores” se ocupan principalmente de:",
+    "options": {
+      "A": "Relatar genealogías y leyes rituales sin referencia al exilio.",
+      "B": "Narrar la vida y milagros de Jesús en Galilea.",
+      "C": "Aclarar la razón del juicio divino y revelar los planes de Dios para el futuro, antes/durante/después del cautiverio."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 22,
+    "question": "Según el capítulo, ¿qué esperan los profetas para el futuro del pueblo de Dios tras el exilio?",
+    "options": {
+      "A": "La desaparición definitiva del pueblo de Dios sin esperanza futura.",
+      "B": "Un rescate y restablecimiento, asociado al envío de un rey del linaje de David (el Mesías) y al reino de Dios.",
+      "C": "La sustitución de Israel por un imperio político humano."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Según el capítulo, ¿qué caracteriza a la “literatura sapiencial” dentro de los Escritos?",
+    "options": {
+      "A": "Que se compone solo de crónicas militares y listas de reyes.",
+      "B": "Que contiene exclusivamente profecías sobre el fin del mundo.",
+      "C": "Que trata temas de importancia universal (p. ej., sufrimiento, amistad, amor, sabiduría) y está menos ligada a circunstancias históricas específicas."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "Según el capítulo, los documentos del Nuevo Testamento pueden dividirse en dos grupos principales:",
+    "options": {
+      "A": "La Ley y los Profetas.",
+      "B": "Los Evangelios y otros escritos apostólicos.",
+      "C": "Poesía y libros históricos."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Según el capítulo, ¿cuál afirmación resume mejor lo que sostiene la Biblia acerca de sí misma (OT y NT)?",
+    "options": {
+      "A": "La Biblia niega toda idea de inspiración divina y es solo literatura religiosa.",
+      "B": "Solo algunas partes son inspiradas, y el resto carece de autoridad.",
+      "C": "Jesús y los apóstoles consideraban inspirado el Antiguo Testamento, y los cristianos reconocieron pronto autoridad similar en los escritos del Nuevo Testamento."
+    },
+    "answer": "C"
+  }
+]

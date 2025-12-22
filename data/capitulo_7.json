@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": "¿A quién dirige Lucas su obra al inicio del Evangelio (Lc 1:1-4)?",
+    "options": {
+      "A": "A Teófilo.",
+      "B": "A Tito.",
+      "C": "A Timoteo."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Según la unidad, ¿qué característica distingue a Lucas entre los escritores del NT?",
+    "options": {
+      "A": "Solo escribió cartas y no narraciones.",
+      "B": "Relata con extensión semejante la historia del Jesús terrenal y la actividad del Señor resucitado en/por los discípulos.",
+      "C": "Es el único que no menciona el reino de Dios."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Según la unidad, ¿por qué el libro de Hechos es tan importante para entender el NT?",
+    "options": {
+      "A": "Porque reemplaza los Evangelios.",
+      "B": "Porque abarca el periodo en que se escribió el resto del NT y sin él sabríamos poco del apóstol Pablo.",
+      "C": "Porque fue escrito antes del Antiguo Testamento."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "En Lc 1:1-4, Lucas declara que su intención es presentar:",
+    "options": {
+      "A": "Un relato ordenado y bien documentado del ministerio de Jesús, basado en testigos oculares y ministros de la palabra.",
+      "B": "Una colección de proverbios sin orden.",
+      "C": "Un resumen breve sin referencias a fuentes."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "Según la unidad, la repentina aparición de anuncios proféticos (María, Zacarías, Simeón) y mensajes de ángeles en Lc 1–2 anuncian:",
+    "options": {
+      "A": "La llegada de la era del Mesías.",
+      "B": "El fin definitivo de toda promesa.",
+      "C": "El inicio del exilio en Babilonia."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "En las narraciones de la infancia, Jesús es presentado como:",
+    "options": {
+      "A": "Un líder político elegido por Roma.",
+      "B": "El rey prometido del linaje de David y “Cristo el Señor”.",
+      "C": "Un profeta menor sin relación con David."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "Según la unidad, los israelitas devotos que buscaban la “consolación” o “redención” de Israel (Lc 2:25,38) reflejan que:",
+    "options": {
+      "A": "Esperaban que el exilio terminara.",
+      "B": "Creían que ya no existía pecado.",
+      "C": "Rechazaban toda esperanza de salvación."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "La venida de Jesús significaba salvación y gloria para Israel y también:",
+    "options": {
+      "A": "“Luz para revelación a los gentiles”, cumpliendo profecías como Isaías 49:5-6.",
+      "B": "Solo beneficio para una élite religiosa.",
+      "C": "La desaparición total de las naciones."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Cuando Lucas dice que “vino la palabra de Dios” a Juan en el desierto (Lc 3:2), la unidad señala que esto indica:",
+    "options": {
+      "A": "Un llamado profético similar al de los profetas del AT.",
+      "B": "Un mensaje filosófico sin relación con el AT.",
+      "C": "Un hecho simbólico sin contenido histórico."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Según la unidad, el ministerio de Juan el Bautista fue único porque se le llamó a:",
+    "options": {
+      "A": "Hacer preparativos para la última venida de Dios en juicio y salvación, cumpliendo Isaías 40:3-5.",
+      "B": "Fundar un imperio militar en Judea.",
+      "C": "Sustituir a Jesús en el plan de Dios."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "Juan predicó “bautismo del arrepentimiento para perdón de pecados” ofreciendo la oportunidad de huir de:",
+    "options": {
+      "A": "La “ira venidera”.",
+      "B": "La pobreza material exclusivamente.",
+      "C": "La persecución romana únicamente."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Juan anunció que vendría uno que bautizaría:",
+    "options": {
+      "A": "Solo con agua.",
+      "B": "“En Espíritu Santo y fuego”.",
+      "C": "Con aceite y vino."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "Según el texto, las valientes predicaciones de Juan lo llevaron a ser:",
+    "options": {
+      "A": "Corregado con riquezas y honor.",
+      "B": "Encarcelado por Herodes.",
+      "C": "Coronado como rey en Jerusalén."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "La genealogía de Lc 3:23-38 relaciona a Jesús con Adán y enfatiza:",
+    "options": {
+      "A": "Su importancia universal para toda la raza humana, no solo para la semilla de Abraham.",
+      "B": "Que Jesús no tiene conexión con la historia humana.",
+      "C": "Que el mensaje de Jesús es solo para Galilea."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "Según la unidad, el mensaje acerca de Jesús y lo que logró debe anunciarse:",
+    "options": {
+      "A": "Solo dentro de Israel.",
+      "B": "En todas las naciones, comenzando desde Jerusalén (Lc 24:47).",
+      "C": "Solo en Babilonia, comenzando desde el desierto."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "El relato de las tentaciones (Lc 4:1-13) muestra que Jesús vino para:",
+    "options": {
+      "A": "Derrotar al diablo y a todo poder que esclavizara al pueblo de Dios.",
+      "B": "Evitar toda confrontación espiritual.",
+      "C": "Enseñar que el pecado no existe."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "Según el texto, cuando Jesús expulsa demonios declara que:",
+    "options": {
+      "A": "“Si por el dedo de Dios echo yo fuera los demonios, ciertamente el reino de Dios ha llegado a vosotros” (Lc 11:20).",
+      "B": "El reino de Dios está cancelado.",
+      "C": "Los milagros no tienen relación con el reino."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "Después de la tentación, Jesús regresó a Galilea:",
+    "options": {
+      "A": "En el poder del Espíritu (Lc 4:14).",
+      "B": "Sin el Espíritu y sin mensaje.",
+      "C": "Para abandonar su misión."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "En Nazaret, Jesús leyó Isaías 61:1-2 y afirmó:",
+    "options": {
+      "A": "“Hoy se ha cumplido esta Escritura delante de vosotros”.",
+      "B": "“Esta Escritura no se cumplirá jamás”.",
+      "C": "“Esta Escritura es solo para el pasado”."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Según la unidad, en su contexto original Isaías 61 se dirigía a exiliados en Babilonia (“los pobres”), pero aplicado al tiempo de Jesús significa que el Siervo vino a proclamar libertad a los oprimidos por:",
+    "options": {
+      "A": "Los efectos del pecado y del poder de Satanás.",
+      "B": "La falta de agricultura y comercio.",
+      "C": "El exceso de leyes civiles."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "La unidad señala que la prioridad de Jesús era:",
+    "options": {
+      "A": "Predicar el reino de Dios (Lc 4:42-44).",
+      "B": "Formar un ejército.",
+      "C": "Evitar hablar del reino."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Jesús resume su ministerio en Lc 7:22 con señales que recuerdan a Isaías, como:",
+    "options": {
+      "A": "“Los ciegos ven… los muertos son resucitados… a los pobres es anunciado el evangelio”.",
+      "B": "“Los mares se secan… las montañas desaparecen…”.",
+      "C": "“Todos los enemigos mueren al instante”."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "Según la unidad, tras confesar los discípulos que Jesús es “el Cristo de Dios” (Lc 9:20), Jesús enseña:",
+    "options": {
+      "A": "Que su sufrimiento y muerte no tienen sentido.",
+      "B": "La necesidad de su sufrimiento y su muerte, y llama a los discípulos a compartir el sufrimiento (Lc 9:21-27).",
+      "C": "Que el reino ya está consumado plenamente."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "En Lc 2:7–2:8 (según la unidad), la última cena y la pascua enseñan que:",
+    "options": {
+      "A": "La pascua deja de ser importante para siempre sin relación con Jesús.",
+      "B": "La muerte de Jesús es un nuevo acto de redención que inaugura el nuevo pacto (Jer 31:31-34).",
+      "C": "La redención ocurre solo por esfuerzo humano."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Según la unidad, la resurrección y la ascensión de Jesús culminan en una comisión para:",
+    "options": {
+      "A": "Predicar en su nombre el arrepentimiento y el perdón de pecados en todas las naciones, comenzando desde Jerusalén, con poder del Espíritu.",
+      "B": "Permanecer en silencio y no testificar.",
+      "C": "Volver inmediatamente a Egipto."
+    },
+    "answer": "A"
+  }
+]

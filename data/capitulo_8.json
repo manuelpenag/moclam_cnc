@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": "Según la unidad, ¿qué muestra el libro de Hechos en relación con el propósito de Dios de bendecir a toda la humanidad?",
+    "options": {
+      "A": "Cómo el evangelio se expande desde Jerusalén hacia las naciones.",
+      "B": "Cómo Israel elimina toda influencia extranjera mediante conquistas.",
+      "C": "Cómo el Antiguo Testamento reemplaza al Nuevo Testamento."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Según la unidad, ¿qué frase resume el movimiento del evangelio en Hechos desde Jerusalén hasta Roma?",
+    "options": {
+      "A": "“Acerca del Señor Jesucristo, abiertamente y sin impedimento”.",
+      "B": "“El justo por la fe vivirá”.",
+      "C": "“Mi reino no es de este mundo”."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué énfasis destaca Lucas en Hechos, según el texto, frente a las dificultades y oposición?",
+    "options": {
+      "A": "El triunfo de “la palabra del Señor”.",
+      "B": "La superioridad militar de las iglesias.",
+      "C": "La ausencia total de conflictos en la misión."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "La unidad describe Hechos como “una presentación de diapositivas” principalmente porque:",
+    "options": {
+      "A": "Resume distintos avances del evangelio en secciones y etapas.",
+      "B": "Es un libro de poesía y proverbios.",
+      "C": "Es un libro sin narrativa ni personajes."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "Según la unidad, la narración de Hechos puede dividirse en cuántas partes principales (secciones) de avance a nuevas fronteras?",
+    "options": {
+      "A": "6",
+      "B": "3",
+      "C": "12"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "¿Qué patrón de testimonio se establece explícitamente en Hechos 1:8?",
+    "options": {
+      "A": "Jerusalén → Judea → Samaria → lo último de la tierra.",
+      "B": "Galilea → Babilonia → Roma → Egipto.",
+      "C": "Jerusalén → Atenas → Esparta → Troya."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "En la unidad, ¿qué diferencia cuantitativa se menciona entre Lucas y Hechos respecto a la mención del “reino de Dios”?",
+    "options": {
+      "A": "En Lucas aparece alrededor de 40 veces y en Hechos unas 8 veces.",
+      "B": "En Lucas aparece 8 veces y en Hechos 40 veces.",
+      "C": "En ambos aparece exactamente la misma cantidad de veces."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "Según la unidad, la menor frecuencia del “reino” en Hechos significa que el reino fue reemplazado por otro mensaje?",
+    "options": {
+      "A": "No; el mensaje del reino sigue, pero se expresa en el anuncio de Cristo y sus beneficios.",
+      "B": "Sí; el reino fue eliminado y sustituido por moralismo.",
+      "C": "Sí; el reino quedó reservado solo para el futuro sin relación con la misión."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Según el texto, la predicación “del reino” de Pablo (Hch 20:25) incluía también:",
+    "options": {
+      "A": "“El evangelio de la gracia de Dios” (Hch 20:24).",
+      "B": "Un programa de expansión militar.",
+      "C": "La abolición total del perdón de pecados."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "En el esquema de un sermón de Pablo (Hch 13:16-41), ¿qué elemento aparece como conclusión sobre Jesús?",
+    "options": {
+      "A": "Que Jesús es el Salvador prometido de Israel.",
+      "B": "Que Jesús es solo un maestro sin relación con las promesas.",
+      "C": "Que Jesús anuló la historia del AT."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "Según el sermón de Hch 13 resumido en la unidad, ¿qué demuestra la resurrección de Jesús?",
+    "options": {
+      "A": "Que es el Hijo prometido (Sal 2) y el descendiente de David que no vuelve a corrupción.",
+      "B": "Que la muerte es irreversible para todos sin excepción.",
+      "C": "Que las promesas a David fueron canceladas."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Según la unidad, ¿cuál es “la gran bendición” proclamada por medio de Cristo en Hch 13:38-41?",
+    "options": {
+      "A": "El perdón de los pecados para quienes creen y se vuelven a Él.",
+      "B": "Un territorio político garantizado para Israel.",
+      "C": "La eliminación automática de toda oposición humana."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "La unidad sostiene que tanto Pedro como Pablo predican el reino porque se centran en:",
+    "options": {
+      "A": "La majestad real de Jesús (exaltación) y las bendiciones disponibles por su muerte y resurrección.",
+      "B": "Un calendario exacto de eventos futuros.",
+      "C": "La superioridad cultural judía sobre los gentiles."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "Según la unidad, ¿por qué los discípulos debían esperar en Jerusalén tras la ascensión?",
+    "options": {
+      "A": "Para recibir la promesa del Padre: el Espíritu Santo.",
+      "B": "Porque no podían salir por restricciones romanas permanentes.",
+      "C": "Para construir el templo antes de predicar."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "La pregunta “¿restaurarás el reino a Israel en este tiempo?” (Hch 1:6) se relaciona con la expectativa de:",
+    "options": {
+      "A": "Que el Mesías trajera restauración a Israel, pero Jesús redirige la comprensión hacia la misión con el Espíritu.",
+      "B": "Que Israel regresara a Egipto de inmediato.",
+      "C": "Que el reino fuera únicamente político y ya completo."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Según la unidad, la restauración del reino comenzaría cuando los discípulos:",
+    "options": {
+      "A": "Recibieran al Espíritu Santo y fueran testigos hasta lo último de la tierra.",
+      "B": "Formaran un ejército de liberación.",
+      "C": "Conquistaran Jerusalén por la fuerza."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "En Pentecostés (Hch 2), el Espíritu Santo es derramado por:",
+    "options": {
+      "A": "El Cristo exaltado, como se había prometido.",
+      "B": "Los líderes religiosos del templo.",
+      "C": "El imperio romano como gesto de tolerancia."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "Según la unidad, hablar “en otras lenguas” en Pentecostés funcionó como:",
+    "options": {
+      "A": "Una señal de que la salvación se comunicaría a diversas naciones/idiomas.",
+      "B": "Un reemplazo de la predicación del evangelio.",
+      "C": "Una prueba de superioridad intelectual de los apóstoles."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "La unidad enfatiza que lo que llevó a los oyentes a creer no fueron las lenguas, sino:",
+    "options": {
+      "A": "La predicación que siguió (el sermón de Pedro).",
+      "B": "El temor a castigos romanos.",
+      "C": "La obligación cultural de asistir a festividades."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Según la unidad, el sermón de Pedro en Hch 2 interpreta que se cumple:",
+    "options": {
+      "A": "Joel 2:28-29 (y el anuncio del “día del Señor”).",
+      "B": "Génesis 1:1-3 exclusivamente.",
+      "C": "Deuteronomio 34 únicamente."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Según el texto, la salvación se proclama en Hch 2 en el nombre de:",
+    "options": {
+      "A": "Jesús, presentado como Señor y Cristo.",
+      "B": "Moisés, como mediador final.",
+      "C": "Ciro, como libertador mesiánico."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Según la unidad, la recepción del Espíritu en Samaria (Hch 8:14-17) se vincula con:",
+    "options": {
+      "A": "La unidad entre cristianos samaritanos y los de Judea en una etapa clave del plan de salvación.",
+      "B": "La separación definitiva entre Samaria y Judea.",
+      "C": "La prohibición de que Samaria reciba el evangelio."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "La conversión de Cornelio (Hch 10–11) es clave porque muestra:",
+    "options": {
+      "A": "La inclusión de gentiles en la salvación mesiánica y el testimonio a “lo último de la tierra”.",
+      "B": "El fin de la misión a los gentiles.",
+      "C": "Que solo los judíos podían recibir al Espíritu."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "En Hechos 13, desde Antioquía, ¿quiénes son enviados por el Espíritu en el primer viaje misionero a Asia Menor?",
+    "options": {
+      "A": "Bernabé y Saulo (Pablo).",
+      "B": "Pedro y Juan.",
+      "C": "Esteban y Felipe."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Según la unidad, ¿qué suele ocurrir en la misión de Pablo respecto al orden de anuncio del evangelio?",
+    "options": {
+      "A": "Primero intenta llevar el evangelio a los judíos y luego, frente a oposición, se vuelve a los gentiles.",
+      "B": "Solo predica a gentiles y evita sinagogas.",
+      "C": "Solo predica en Jerusalén y no sale."
+    },
+    "answer": "A"
+  }
+]

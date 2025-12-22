@@ -1,0 +1,2574 @@
+{
+  "source": "Consolidado Moclam.pdf",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Capítulo 1: El Libro de los libros – Preguntas de alternativa (A/B/C) – 25 preguntas",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Según el capítulo, ¿qué describe mejor a la Biblia y cuántos libros contiene en el Antiguo y Nuevo Testamento?",
+          "options": {
+            "A": "Es una biblioteca de libros: 39 en el Antiguo Testamento y 27 en el Nuevo Testamento.",
+            "B": "Es un solo libro escrito por un único autor: 27 en el Antiguo Testamento y 39 en el Nuevo Testamento.",
+            "C": "Es una colección de tradiciones orales sin libros definidos: 50 en el Antiguo Testamento y 16 en el Nuevo Testamento."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 2,
+          "question": "¿Cuál de las siguientes opciones refleja la variedad de material literario que el capítulo menciona que aparece en la Biblia?",
+          "options": {
+            "A": "Solo mitos y fábulas modernas escritas en lenguaje científico.",
+            "B": "Narraciones, leyes, instrucciones para rituales, poesías/cantos, sermones, profecías, dichos sapienciales, parábolas, cartas y genealogías.",
+            "C": "Únicamente poemas y canciones, sin relatos históricos ni cartas."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 3,
+          "question": "¿Cuál opción resume correctamente el marco temporal y el proceso de compilación descritos en el capítulo?",
+          "options": {
+            "A": "Escrita completa en una sola generación durante el siglo I d. C.",
+            "B": "Desde el siglo V a. C. hasta el siglo V d. C., compilada en unos 200 años.",
+            "C": "Desde la época de Moisés (siglo XV a. C.) hasta fines del siglo I d. C., compilada a lo largo de aproximadamente 1.600 años."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 4,
+          "question": "Según el capítulo, ¿qué se destaca como sorprendente respecto de los libros bíblicos, pese a su diversidad de autores y épocas?",
+          "options": {
+            "A": "Que no guardan relación entre sí y se contradicen deliberadamente.",
+            "B": "Que fueron escritos necesariamente en el mismo orden en que aparecen hoy.",
+            "C": "Que desarrollan temas comunes con una unidad total a lo largo del tiempo."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 5,
+          "question": "Al revisar de manera general la Biblia, ¿qué se observa como el hilo conductor que la unifica en su totalidad?",
+          "options": {
+            "A": "El desarrollo gradual del plan o propósito de Dios para anular los efectos del pecado humano y establecer una nueva creación.",
+            "B": "Un registro político que explica solamente el origen de Israel como nación.",
+            "C": "Una colección de enseñanzas morales desconectadas entre sí, sin un propósito global."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 6,
+          "question": "Según el capítulo, otra forma de describir el proceso del plan de salvación es hablar de:",
+          "options": {
+            "A": "La sustitución completa del Antiguo Testamento por libros modernos.",
+            "B": "El establecimiento del “reino de Dios”.",
+            "C": "La eliminación de toda cultura y literatura antigua."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 7,
+          "question": "¿Con qué se dice que el plan de salvación llega a su culminación y cumplimiento?",
+          "options": {
+            "A": "Con el cautiverio babilónico.",
+            "B": "Con el ministerio de Jesucristo.",
+            "C": "Con el reinado de Salomón."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 8,
+          "question": "En el “gráfico simple” del mensaje bíblico, ¿cuál es el orden que mejor representa las etapas presentadas?",
+          "options": {
+            "A": "Caída → Creación → Reino de Dios → Nueva creación → Difusión del evangelio → Salvación.",
+            "B": "Reino de Dios → Nueva creación → Caída → Creación → Salvación → Difusión.",
+            "C": "Creación → Caída → Salvación en la historia → Difusión del evangelio → Reino de Dios → Nueva creación."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 9,
+          "question": "Según la unidad, ¿cuál es la división más evidente dentro de la Biblia que el curso busca explorar en su relación?",
+          "options": {
+            "A": "Entre el libro de Génesis y el libro de Apocalipsis solamente.",
+            "B": "Entre el Antiguo Testamento y el Nuevo Testamento.",
+            "C": "Entre los libros poéticos y los libros históricos únicamente."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 10,
+          "question": "Según el capítulo, el orden de libros del Antiguo Testamento en muchas Biblias (Génesis a Ester; Job a Cantar; Isaías a Malaquías) sigue:",
+          "options": {
+            "A": "El orden original hebreo sin ninguna variante.",
+            "B": "Un orden moderno definido por editores del siglo XX.",
+            "C": "El orden de la traducción griega llamada Septuaginta."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 11,
+          "question": "¿Qué afirma el capítulo sobre la Septuaginta?",
+          "options": {
+            "A": "Es una traducción griega del Antiguo Testamento hecha a partir del hebreo, iniciada en el siglo III a. C.",
+            "B": "Es una traducción latina del Nuevo Testamento escrita en el siglo I d. C.",
+            "C": "Es un comentario rabínico medieval que reemplaza el texto bíblico."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 12,
+          "question": "Según el capítulo, el orden hebreo del Antiguo Testamento es útil porque:",
+          "options": {
+            "A": "Elimina la necesidad de leer los profetas y los escritos.",
+            "B": "Muestra el significado de las diferentes partes y cómo se relacionan entre sí.",
+            "C": "Evita toda referencia histórica y se enfoca solo en poesía."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 13,
+          "question": "¿Cuáles son las tres partes principales del Antiguo Testamento en el orden hebreo que presenta el capítulo?",
+          "options": {
+            "A": "La tradición oral, los concilios y los credos.",
+            "B": "Los Evangelios, Hechos y Apocalipsis.",
+            "C": "La Ley, los Profetas y los Escritos."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 14,
+          "question": "Según el capítulo, los primeros cinco libros fueron llamados por los judíos “la Ley” y también se les llamó:",
+          "options": {
+            "A": "La Septuaginta (“setenta traductores”).",
+            "B": "El Pentateuco (“cinco rollos”).",
+            "C": "El Talmud (“comentarios”)."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 15,
+          "question": "Según el capítulo, cuando los judíos hablaban de “la Ley” (Torá), no se referían solo a reglas, sino también a:",
+          "options": {
+            "A": "La enseñanza básica de Dios mediante la cual se entiende el resto de la Biblia.",
+            "B": "Una lista de calendarios agrícolas sin relación con la fe.",
+            "C": "Un registro de proverbios exclusivamente para la vida cotidiana."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 16,
+          "question": "¿Cuál de las siguientes ideas aparece en el breve resumen de “la Ley” que ofrece el capítulo?",
+          "options": {
+            "A": "La vida pública de Jesús y las cartas de Pablo.",
+            "B": "La historia de la iglesia durante la Edad Media.",
+            "C": "Creación, rebelión humana y llamado de Abraham para traer bendición a todas las naciones."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 17,
+          "question": "Según el capítulo, ¿por qué a Josué, Jueces, 1–2 Samuel y 1–2 Reyes se les llama “los Profetas Anteriores”?",
+          "options": {
+            "A": "Porque presentan la historia desde el punto de vista de Dios y resaltan la importancia de los profetas en el plan divino.",
+            "B": "Porque fueron escritos después del exilio y son totalmente apocalípticos.",
+            "C": "Porque narran únicamente conquistas militares con fechas exactas."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 18,
+          "question": "Según el capítulo, ¿qué enseñanza especial destacan 1 y 2 Samuel respecto del gobierno de Dios sobre su pueblo?",
+          "options": {
+            "A": "Que depende de la fuerza militar de Israel para mantenerse.",
+            "B": "Que está ligado a los reyes descendientes de David (p. ej., 2 Samuel 7:12-16).",
+            "C": "Que no tiene relación con ninguna promesa previa."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 19,
+          "question": "¿Qué evento señala el capítulo como el juicio de Dios sobre el reino del norte (10 tribus) por su rebelión?",
+          "options": {
+            "A": "La conquista asiria y el exilio del año 722 a. C.",
+            "B": "La destrucción de Jerusalén por Roma en el año 70 d. C.",
+            "C": "La división del reino en el año 922 a. C. como exilio definitivo."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 20,
+          "question": "Según el capítulo, ¿qué ocurrió con Judá (reino del sur) y desde cuándo comenzó su exilio a Babilonia?",
+          "options": {
+            "A": "No fue exiliado; permaneció siempre en la tierra sin interrupción.",
+            "B": "Fue exiliado en varias etapas a partir del año 597 a. C., por su continua rebelión.",
+            "C": "Fue exiliado en una sola etapa en el año 722 a. C., por los asirios."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 21,
+          "question": "Según el capítulo, los “Profetas Posteriores” se ocupan principalmente de:",
+          "options": {
+            "A": "Relatar genealogías y leyes rituales sin referencia al exilio.",
+            "B": "Narrar la vida y milagros de Jesús en Galilea.",
+            "C": "Aclarar la razón del juicio divino y revelar los planes de Dios para el futuro, antes/durante/después del cautiverio."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 22,
+          "question": "Según el capítulo, ¿qué esperan los profetas para el futuro del pueblo de Dios tras el exilio?",
+          "options": {
+            "A": "La desaparición definitiva del pueblo de Dios sin esperanza futura.",
+            "B": "Un rescate y restablecimiento, asociado al envío de un rey del linaje de David (el Mesías) y al reino de Dios.",
+            "C": "La sustitución de Israel por un imperio político humano."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 23,
+          "question": "Según el capítulo, ¿qué caracteriza a la “literatura sapiencial” dentro de los Escritos?",
+          "options": {
+            "A": "Que se compone solo de crónicas militares y listas de reyes.",
+            "B": "Que contiene exclusivamente profecías sobre el fin del mundo.",
+            "C": "Que trata temas de importancia universal (p. ej., sufrimiento, amistad, amor, sabiduría) y está menos ligada a circunstancias históricas específicas."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 24,
+          "question": "Según el capítulo, los documentos del Nuevo Testamento pueden dividirse en dos grupos principales:",
+          "options": {
+            "A": "La Ley y los Profetas.",
+            "B": "Los Evangelios y otros escritos apostólicos.",
+            "C": "Poesía y libros históricos."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 25,
+          "question": "Según el capítulo, ¿cuál afirmación resume mejor lo que sostiene la Biblia acerca de sí misma (OT y NT)?",
+          "options": {
+            "A": "La Biblia niega toda idea de inspiración divina y es solo literatura religiosa.",
+            "B": "Solo algunas partes son inspiradas, y el resto carece de autoridad.",
+            "C": "Jesús y los apóstoles consideraban inspirado el Antiguo Testamento, y los cristianos reconocieron pronto autoridad similar en los escritos del Nuevo Testamento."
+          },
+          "answer": "C"
+        }
+      ],
+      "answer_key": {
+        "1": "A",
+        "2": "B",
+        "3": "C",
+        "4": "C",
+        "5": "A",
+        "6": "B",
+        "7": "B",
+        "8": "C",
+        "9": "B",
+        "10": "C",
+        "11": "A",
+        "12": "B",
+        "13": "C",
+        "14": "B",
+        "15": "A",
+        "16": "C",
+        "17": "A",
+        "18": "B",
+        "19": "A",
+        "20": "B",
+        "21": "C",
+        "22": "B",
+        "23": "C",
+        "24": "B",
+        "25": "C"
+      }
+    },
+    {
+      "chapter": 2,
+      "title": "Capítulo 2: De Creación a Nueva Creación – Preguntas de",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Según el capítulo, ¿cómo describe Génesis 1 la obra creativa de Dios en contraste con una “creación” humana común?",
+          "options": {
+            "A": "Dios crea “los cielos y la tierra” sin materiales ya existentes, por su orden específica.",
+            "B": "Dios solo reorganiza materiales preexistentes, como un artista que pinta un cuadro.",
+            "C": "Dios delega la creación en ángeles, sin intervenir mediante su palabra."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 2,
+          "question": "¿Qué repetición en Génesis 1 enfatiza el absoluto control de Dios sobre la creación?",
+          "options": {
+            "A": "“Y dijo Dios... y fue así.”",
+            "B": "“Y temió el hombre...”",
+            "C": "“Y discutieron las naciones...”"
+          },
+          "answer": "A"
+        },
+        {
+          "id": 3,
+          "question": "La frase “y vio Dios que era bueno” sugiere principalmente que:",
+          "options": {
+            "A": "la creación cumple con los buenos propósitos de Dios en cada etapa.",
+            "B": "la creación es buena solo cuando el ser humano la controla sin límites.",
+            "C": "Dios no tiene propósitos definidos, sino que improvisa en cada día de la creación."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 4,
+          "question": "Según el capítulo, ¿qué muestra el hecho de que Dios nombre ciertas cosas y les atribuya funciones específicas?",
+          "options": {
+            "A": "Que la creación tiene propósito y orden según la voluntad de Dios.",
+            "B": "Que los nombres son irrelevantes y solo decorativos.",
+            "C": "Que el ser humano puede redefinir libremente el sentido de la creación."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 5,
+          "question": "De acuerdo con el capítulo, ¿cuál es la tarea de la humanidad como “imagen” y “semejanza” de Dios?",
+          "options": {
+            "A": "Gobernar la creación como representantes de Dios, sin abuso, según su voluntad.",
+            "B": "Hacer uso o abuso de la creación a gusto, porque el mundo pertenece al ser humano.",
+            "C": "Vivir aislados del resto de la creación, sin responsabilidad sobre ella."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 6,
+          "question": "En la narración del huerto del Edén, ¿qué verbos ilustran el sentido correcto del dominio humano sobre la creación?",
+          "options": {
+            "A": "“Labrar” y “guardar”.",
+            "B": "“Conquistar” y “destruir”.",
+            "C": "“Ignorar” y “abandonar”."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 7,
+          "question": "Según el capítulo, el “reposo” de Dios (Gn 2:1-3) NO significa que Dios esté:",
+          "options": {
+            "A": "inactivo.",
+            "B": "culminando su obra creativa y marcando un día de bendición y veneración.",
+            "C": "enseñando que el sentido de la vida no se reduce al trabajo y al disfrute de la creación."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 8,
+          "question": "El propósito de Dios al crearnos, según el capítulo, se relaciona con:",
+          "options": {
+            "A": "gozar de una relación intacta con Dios, representada por el “reposo”.",
+            "B": "buscar significado solo en el esfuerzo laboral y en los beneficios materiales.",
+            "C": "independizarnos de Dios para lograr una existencia coherente y satisfactoria."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 9,
+          "question": "En Génesis 2:16-17, la orden de Dios se presenta en el capítulo como:",
+          "options": {
+            "A": "una palabra de misericordia y advertencia, buena y proveniente del amoroso Creador.",
+            "B": "una restricción arbitraria que no tiene relación con el bien humano.",
+            "C": "una sugerencia opcional sin consecuencias."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 10,
+          "question": "Según el capítulo, buscar el conocimiento “del bien y del mal” implica principalmente:",
+          "options": {
+            "A": "intentar igualarse a Dios.",
+            "B": "aprender oficios prácticos para administrar el huerto.",
+            "C": "adquirir información científica neutral sobre la naturaleza."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 11,
+          "question": "La consecuencia inmediata de la caída, según el capítulo, fue:",
+          "options": {
+            "A": "el rompimiento de las relaciones: con Dios, entre humanos y con la creación.",
+            "B": "la eliminación total del pecado del corazón humano.",
+            "C": "la restauración automática del reposo perfecto con Dios."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 12,
+          "question": "Según el capítulo, ¿por qué se dice que Adán pecó “con los ojos abiertos”?",
+          "options": {
+            "A": "Porque recibió la orden de Dios (2:16-17) y aun así desobedeció.",
+            "B": "Porque no escuchó la orden de Dios y actuó por ignorancia.",
+            "C": "Porque la serpiente no tuvo ninguna participación en la tentación."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 13,
+          "question": "¿Qué expresa la sentencia de Génesis 3:22-24 según el capítulo?",
+          "options": {
+            "A": "Expulsión del huerto y exclusión del árbol de la vida, dejando un futuro de dolor y muerte.",
+            "B": "Acceso ilimitado a la vida eterna en el huerto.",
+            "C": "Que el juicio de Dios fue simbólico y sin consecuencias reales."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 14,
+          "question": "Después de la caída, ¿qué ocurre con el gozo por las diferencias entre hombre y mujer, según el capítulo?",
+          "options": {
+            "A": "Es reemplazado por dolor y conflictos en la relación.",
+            "B": "Se intensifica sin ninguna mezcla de sufrimiento.",
+            "C": "Deja de existir toda relación humana y no hay matrimonio."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 15,
+          "question": "El capítulo resume un patrón en Génesis 1–11 que puede describirse como:",
+          "options": {
+            "A": "pecado → juicio → misericordia.",
+            "B": "progreso → prosperidad → perfección.",
+            "C": "silencio → duda → olvido."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 16,
+          "question": "¿Cuál ejemplo usa el capítulo para mostrar el rompimiento completo de las relaciones humanas tras la caída?",
+          "options": {
+            "A": "Caín mata a su hermano Abel.",
+            "B": "Israel construye el templo de Jerusalén.",
+            "C": "David derrota a Goliat."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 17,
+          "question": "Según el capítulo, la frase de Gn 3:17-19 indica que el dominio humano sobre la creación sería:",
+          "options": {
+            "A": "deteriorado, convirtiendo la vida en lucha contra el ambiente y conduciendo a la muerte.",
+            "B": "perfecto e inalterable a pesar del pecado.",
+            "C": "irrelevante, porque el ser humano ya no interactuaría con la creación."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 18,
+          "question": "En el juicio del diluvio, el capítulo describe la inundación como:",
+          "options": {
+            "A": "semejante a una inversión del proceso de la creación.",
+            "B": "una ceremonia simbólica sin alcance universal.",
+            "C": "una historia sin relación con el tema del pecado y del juicio."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "question": "¿Qué muestra la decisión de Dios de salvar a Noé, su familia y animales en el arca?",
+          "options": {
+            "A": "El compromiso permanente de Dios con su creación a pesar del pecado.",
+            "B": "Que Dios abandonó definitivamente la creación.",
+            "C": "Que el pecado había desaparecido por completo de la humanidad."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 20,
+          "question": "Después del diluvio, Dios ofrece a la humanidad:",
+          "options": {
+            "A": "un nuevo comienzo en una creación renovada y promete no repetir un diluvio semejante.",
+            "B": "la eliminación de toda responsabilidad humana sobre la creación.",
+            "C": "la abolición de la multiplicación humana y del dominio sobre la tierra."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 21,
+          "question": "En la historia de la torre de Babel, ¿qué revela la frase “y hagámonos un nombre”?",
+          "options": {
+            "A": "La arrogante presunción humana de construir una vida coherente dejando a Dios fuera.",
+            "B": "La obediencia humilde a la palabra de Dios.",
+            "C": "Un acto de adoración a Dios ordenado por los profetas."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 22,
+          "question": "Según el capítulo, ¿cuál fue la respuesta de Dios en Babel?",
+          "options": {
+            "A": "Frustrar sus propósitos mediante la confusión de idiomas.",
+            "B": "Aprobar el proyecto humano y bendecirlo sin condiciones.",
+            "C": "Eliminar toda diferencia cultural y unificar las lenguas para siempre."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 23,
+          "question": "Aunque en Babel parece haber solo juicio, el capítulo señala que el relato continúa con:",
+          "options": {
+            "A": "la genealogía de Sem que conduce al llamamiento de Abraham, inicio de un plan de salvación.",
+            "B": "la instauración inmediata del reino de David.",
+            "C": "la llegada del Mesías en Génesis 11."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 24,
+          "question": "Según el capítulo, la promesa implícita en Gn 3:14-15 incluye que el problema sería resuelto:",
+          "options": {
+            "A": "desde dentro de la raza humana, por la “semilla” o descendencia de la mujer.",
+            "B": "únicamente por intervención directa de animales del huerto.",
+            "C": "por la sabiduría humana acumulada sin necesidad de redención."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 25,
+          "question": "De acuerdo con el capítulo, ¿qué describe mejor el alcance del plan de salvación y restauración de Dios?",
+          "options": {
+            "A": "No solo trata individuos, sino toda la creación donde Dios nos ha colocado.",
+            "B": "Se limita a asuntos privados, sin relación con la creación.",
+            "C": "Apunta solo a mejorar conductas humanas sin restaurar relaciones con Dios."
+          },
+          "answer": "A"
+        }
+      ],
+      "answer_key": {
+        "1": "A",
+        "2": "A",
+        "3": "A",
+        "4": "A",
+        "5": "A",
+        "6": "A",
+        "7": "A",
+        "8": "A",
+        "9": "A",
+        "10": "A",
+        "11": "A",
+        "12": "A",
+        "13": "A",
+        "14": "A",
+        "15": "A",
+        "16": "A",
+        "17": "A",
+        "18": "A",
+        "19": "A",
+        "20": "A",
+        "21": "A",
+        "22": "A",
+        "23": "A",
+        "24": "A",
+        "25": "A"
+      }
+    },
+    {
+      "chapter": 3,
+      "title": "Capítulo 3 (Unidad 3): Israel y los propósitos de Dios",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Según la introducción de la unidad, ¿qué pregunta guía el estudio del capítulo 3?",
+          "options": {
+            "A": "Por qué Israel ocupa un lugar tan importante dentro del mensaje bíblico y los propósitos misericordiosos de Dios.",
+            "B": "Cómo se organizó el canon del Nuevo Testamento y sus divisiones.",
+            "C": "Cuál fue la fecha exacta de redacción de cada libro del Pentateuco."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 2,
+          "question": "De acuerdo a la unidad, el llamamiento de Abraham (Gn 12:1-3) se presenta como el medio de Dios para:",
+          "options": {
+            "A": "Anular la maldición que cayó sobre la humanidad por el pecado y restaurar la bendición.",
+            "B": "Establecer un imperio político para dominar a las naciones vecinas.",
+            "C": "Reemplazar por completo la creación material por una realidad puramente espiritual."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 3,
+          "question": "¿Qué idea conecta explícitamente Gn 12:1-3 con Gn 1–2 según el texto?",
+          "options": {
+            "A": "Que las palabras a Abraham reafirman los buenos propósitos originales de Dios para la humanidad.",
+            "B": "Que Abraham fue creado el sexto día como corona de la creación.",
+            "C": "Que el huerto del Edén fue construido por Moisés en el desierto."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 4,
+          "question": "En la unidad, ¿qué episodio se usa como ejemplo fuerte de la ruina de la sociedad humana por excluir a Dios de la comunidad?",
+          "options": {
+            "A": "El diluvio (Gn 6–9).",
+            "B": "La torre de Babel (Gn 11:1-9).",
+            "C": "La venta de José (Gn 37)."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 5,
+          "question": "El buen propósito de Dios en Gn 1:28 se resume principalmente como:",
+          "options": {
+            "A": "Hacer un templo de piedra y establecer sacrificios.",
+            "B": "Fructificar, multiplicarse, llenar la tierra y sojuzgarla bajo la voluntad de Dios.",
+            "C": "Separar a la humanidad en grupos irreconciliables para evitar el pecado."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 6,
+          "question": "La promesa de hacer de Abraham “una gran nación” se relaciona con la maldición porque:",
+          "options": {
+            "A": "Responde al rompimiento y división de relaciones humanas resultantes del pecado.",
+            "B": "Garantiza que Israel nunca sufrirá opresión en su historia.",
+            "C": "Anula la necesidad de obediencia y santidad del pueblo."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 7,
+          "question": "Cuando Dios le dice a Abraham: “Vete de tu tierra… a la tierra que te mostraré” (Gn 12:1), la unidad enfatiza que la promesa apunta a:",
+          "options": {
+            "A": "Un lugar donde se pueda disfrutar nuevamente la vida de bendición bajo Dios.",
+            "B": "Un territorio para expandir comercio marítimo a gran escala.",
+            "C": "Un desierto para probar que la tierra no es importante en el plan de Dios."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 8,
+          "question": "Según la unidad, la ‘tierra’ se asocia con bendición porque:",
+          "options": {
+            "A": "Fue el símbolo de la superioridad militar de Israel.",
+            "B": "Era el lugar donde la humanidad viviría con la bendición de Dios (Gn 1:28) en armonía con su medio (Gn 2:15-16).",
+            "C": "Representa únicamente una metáfora sin referencia histórica."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 9,
+          "question": "¿Cuál es la relación que la unidad traza entre Gn 3 y la tierra/bendición?",
+          "options": {
+            "A": "Gn 3 describe el rompimiento de la armonía entre el hombre y su medio (Gn 3:17-19).",
+            "B": "Gn 3 elimina toda posibilidad de bendición futura y deja a Dios sin propósito.",
+            "C": "Gn 3 muestra que la tierra se vuelve irrelevante en el resto de la Biblia."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 10,
+          "question": "La unidad menciona una “patria mejor” (Heb 11:16) para indicar que:",
+          "options": {
+            "A": "La bendición plena apunta a una meta futura a la que se dirige toda la historia bíblica.",
+            "B": "La promesa a Abraham se cumplió completamente en Egipto.",
+            "C": "La fe bíblica consiste en abandonar toda esperanza de restauración."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 11,
+          "question": "Génesis 12–50 se describe principalmente como la historia de:",
+          "options": {
+            "A": "Moisés, Josué y los jueces.",
+            "B": "Abraham, Isaac, Jacob y los hijos de Jacob (incluyendo a José).",
+            "C": "Saúl, David y Salomón."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 12,
+          "question": "¿Qué hecho marca el origen del nombre de la nación, según el texto?",
+          "options": {
+            "A": "Dios llamó a Jacob “Israel” (Gn 32:28).",
+            "B": "Abraham cambió su nombre a Israel al salir de Ur.",
+            "C": "José fue llamado Israel por el faraón."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 13,
+          "question": "Los doce hijos de Jacob se presentan como:",
+          "options": {
+            "A": "Los autores de los profetas posteriores.",
+            "B": "Los ancestros de las doce tribus que constituyeron la nación de Israel (Gn 49:28).",
+            "C": "Los reyes que gobernaron juntos en Jerusalén."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 14,
+          "question": "El relato de Génesis 12–50 enfatiza que Dios dio descendencia a Abraham a pesar de:",
+          "options": {
+            "A": "Circunstancias desfavorables y obstáculos, mostrando su fidelidad al juramento.",
+            "B": "La ausencia total de promesas divinas.",
+            "C": "La superioridad moral constante de los patriarcas."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 15,
+          "question": "¿Con qué situación concluye el libro de Génesis según la unidad?",
+          "options": {
+            "A": "La familia de Jacob (Israel) permanece en Egipto, esperando la subida a la tierra prometida.",
+            "B": "Las tribus se establecen definitivamente en Jerusalén con un templo construido.",
+            "C": "El pueblo entra a Canaán y se divide el reino en norte y sur."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 16,
+          "question": "En Éxodo 1:7, el texto dice que la bendición está activa porque:",
+          "options": {
+            "A": "Las palabras recuerdan claramente a Gn 1:28 (multiplicación y crecimiento).",
+            "B": "El pueblo ya había recibido la monarquía davídica.",
+            "C": "Israel ya había construido el tabernáculo."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 17,
+          "question": "Según el resumen de Éxodo presentado, ¿qué orden describe correctamente la narrativa principal?",
+          "options": {
+            "A": "Israel unido por pacto → Israel esclavizado → Israel redimido → Israel llamado para servir.",
+            "B": "Israel esclavizado en Egipto → Israel redimido de Egipto → Israel unido al Señor por un pacto → Israel llamado para servir.",
+            "C": "Israel redimido → Israel exiliado → Israel vuelve → Israel esclavizado."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 18,
+          "question": "En la unidad, ‘redención’ (Éx 6:2-8) se entiende como una obra de Dios que incluye, entre otras cosas:",
+          "options": {
+            "A": "Un propósito previo/promesa, juicios poderosos y un objetivo positivo de relación con Dios.",
+            "B": "Solo una mejora económica del pueblo sin referencia a Dios.",
+            "C": "Un cambio de liderazgo humano sin intervención divina."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "question": "¿Cuál de estos ejemplos se menciona como parte de los “grandes juicios” de Dios en la redención de Egipto?",
+          "options": {
+            "A": "La construcción del templo de Salomón.",
+            "B": "Las diez plagas (Éx 7–12) y la derrota del ejército del faraón en Éx 14.",
+            "C": "La división del reino en 1 Reyes 12."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 20,
+          "question": "Según la unidad, la liberación de Egipto no fue un fin en sí mismo porque Dios:",
+          "options": {
+            "A": "Los sacó para que volvieran a Egipto con mejores condiciones.",
+            "B": "Los sacó para que fueran su pueblo y él fuera su Dios (Éx 6:7; cf. Éx 19:4-6).",
+            "C": "Los sacó para que evitaran toda ley y toda obligación."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 21,
+          "question": "En Éxodo 19:5, Israel es llamado “mi especial tesoro… porque mía es toda la tierra”. Esto recalca:",
+          "options": {
+            "A": "Que Israel es especial, pero los propósitos de Dios se extienden más allá de Israel a toda la tierra.",
+            "B": "Que Dios solo se interesa por Israel y no por las demás naciones.",
+            "C": "Que la tierra prometida es el fin último y definitivo de toda la historia."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 22,
+          "question": "¿Cómo resume la unidad la relación entre la ley y la gracia/redención?",
+          "options": {
+            "A": "La ley es la respuesta adecuada del pueblo a la gracia de Dios; obediencia como respuesta a la redención.",
+            "B": "La ley reemplaza la redención porque la gracia no es suficiente.",
+            "C": "La ley fue dada para que Israel ganara la redención por méritos propios."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 23,
+          "question": "¿Qué frase de Levítico 19:2 se usa para expresar la llamada a la santidad?",
+          "options": {
+            "A": "“Santos seréis, porque santo soy yo Jehová vuestro Dios.”",
+            "B": "“No tendrás dioses ajenos delante de mí.”",
+            "C": "“El justo por la fe vivirá.”"
+          },
+          "answer": "A"
+        },
+        {
+          "id": 24,
+          "question": "Según la unidad, ¿cómo se describe el libro de Deuteronomio?",
+          "options": {
+            "A": "Una serie de discursos de Moisés en Moab, exhortando a recordar y responder correctamente al entrar a la tierra.",
+            "B": "Un registro detallado de la construcción del templo en Jerusalén.",
+            "C": "Una colección de poemas de David sobre el exilio."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 25,
+          "question": "En Deuteronomio 30:15-20, los discursos culminan con:",
+          "options": {
+            "A": "Una invitación a escoger entre dos posibilidades (vida/obediencia vs. muerte/ruina), destacando la seriedad de la respuesta.",
+            "B": "Un mandato de abandonar la tierra prometida para siempre.",
+            "C": "Una promesa de que Israel nunca fallará ni será infiel."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 26,
+          "question": "La unidad cita Romanos 5:8 para enfatizar que:",
+          "options": {
+            "A": "Dios redimió a Israel cuando aún eran pecadores, mostrando su iniciativa y gracia.",
+            "B": "La redención solo ocurre después de que el pueblo alcance perfección moral.",
+            "C": "La historia de Israel es un ejemplo de autosalvación humana."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 27,
+          "question": "¿Dónde se registra la muerte de Moisés, según el texto?",
+          "options": {
+            "A": "En Éxodo 40.",
+            "B": "En Números 22.",
+            "C": "En Deuteronomio 34."
+          },
+          "answer": "C"
+        }
+      ],
+      "answer_key": {
+        "1": "A",
+        "2": "A",
+        "3": "A",
+        "4": "B",
+        "5": "B",
+        "6": "A",
+        "7": "A",
+        "8": "B",
+        "9": "A",
+        "10": "A",
+        "11": "B",
+        "12": "A",
+        "13": "B",
+        "14": "A",
+        "15": "A",
+        "16": "A",
+        "17": "B",
+        "18": "A",
+        "19": "B",
+        "20": "B",
+        "21": "A",
+        "22": "A",
+        "23": "A",
+        "24": "A",
+        "25": "A",
+        "26": "A",
+        "27": "C"
+      }
+    },
+    {
+      "chapter": 4,
+      "title": "Preguntas – Capítulo 4 (MOCLAM) – Formato ABC",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Según la unidad, ¿por qué Palestina tuvo un papel importante en la historia política del mundo antiguo?",
+          "options": {
+            "A": "Porque estaba aislada por desiertos y mares y casi no tenía contacto con otras naciones.",
+            "B": "Porque estaba ubicada entre grandes civilizaciones (Nilo al sur y Tigris/Eufrates al norte), en una ruta comercial clave.",
+            "C": "Porque era el centro del imperio romano durante toda la historia del Antiguo Testamento."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 2,
+          "question": "¿Qué “super potencias” (según el texto) se sentían ansiosas de controlar la ruta comercial que pasaba por la región?",
+          "options": {
+            "A": "Egipto por el sur; Asiria y Babilonia por el norte.",
+            "B": "Grecia por el oeste; Persia por el este.",
+            "C": "Roma por el sur; Fenicia por el norte."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 3,
+          "question": "¿Cuál es el área aproximada que llegó a ocupar la tierra de las tribus de Israel, según el documento?",
+          "options": {
+            "A": "25.600 km² aproximadamente.",
+            "B": "2.560 km² aproximadamente.",
+            "C": "256.000 km² aproximadamente."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 4,
+          "question": "¿Cuáles son las tres características geográficas principales de norte a sur que se mencionan para Palestina?",
+          "options": {
+            "A": "La planicie costera, las montañas y el valle del Jordán.",
+            "B": "El desierto del Sahara, los Alpes y el río Danubio.",
+            "C": "Las pampas, la cordillera de los Andes y el río Amazonas."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 5,
+          "question": "Según el texto, ¿en qué meses se concentran las precipitaciones más abundantes del invierno en Palestina?",
+          "options": {
+            "A": "De diciembre a marzo.",
+            "B": "De junio a septiembre.",
+            "C": "De agosto a noviembre."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 6,
+          "question": "¿Qué se afirma sobre el cambio climático de Palestina desde los tiempos bíblicos, según la evidencia arqueológica citada?",
+          "options": {
+            "A": "Que el clima ha cambiado drásticamente y ya no se parece al de la época bíblica.",
+            "B": "Que no ha cambiado significativamente desde los tiempos bíblicos.",
+            "C": "Que antes no existía estación lluviosa, y ahora sí."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 7,
+          "question": "Según Deuteronomio 11:10-12 (explicado en la unidad), ¿cuál es el contraste principal entre Egipto y Palestina respecto al riego y la fertilidad?",
+          "options": {
+            "A": "Egipto dependía de la lluvia, y Palestina del Nilo para regar.",
+            "B": "Egipto regaba con las aguas del Nilo; Palestina dependía de la lluvia y no tenía agua para riego.",
+            "C": "Ambas dependían de canales artificiales construidos por Israel."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 8,
+          "question": "En el sentido del pasaje explicado, ¿por qué se dice que Palestina era “la tierra de Dios”?",
+          "options": {
+            "A": "Porque la fertilidad dependía de la lluvia, por lo que era una tierra cuidada por Dios y no por el hombre.",
+            "B": "Porque Israel inventó un sistema de irrigación más avanzado que el de Egipto.",
+            "C": "Porque no existían enemigos ni guerras en esa región."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 9,
+          "question": "¿Cómo se describe la tierra en Deuteronomio (según el texto) para expresar su “bondad”, más allá de una descripción literal?",
+          "options": {
+            "A": "Como una tierra estéril y pedregosa, sin recursos.",
+            "B": "Como una tierra “que fluye leche y miel”, con lenguaje exagerado para resaltar la bendición de Dios.",
+            "C": "Como una tierra sin montañas ni valles, totalmente plana."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 10,
+          "question": "Según la unidad, ¿qué recuerda la “buena tierra” (Deuteronomio 8:7-10) respecto al propósito de Dios?",
+          "options": {
+            "A": "Recuerda el huerto del Edén como lugar de bendición.",
+            "B": "Recuerda la torre de Babel como símbolo de unidad humana.",
+            "C": "Recuerda Sodoma y Gomorra como ejemplo de prosperidad permanente."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 11,
+          "question": "En Deuteronomio, ¿qué idea se enfatiza al recordar que la tierra fue prometida a Abraham, Isaac y Jacob?",
+          "options": {
+            "A": "Que Israel entraría por su propia justicia y méritos.",
+            "B": "Que Israel entraría porque Dios es fiel y cumple su promesa.",
+            "C": "Que Israel entraría por tener el ejército más fuerte de la región."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 12,
+          "question": "Según la sección “El regalo de Dios”, ¿cómo se recalca que la tierra no era ganada por Israel?",
+          "options": {
+            "A": "Se insiste en que Dios “da” la tierra y la entrega “por heredad”.",
+            "B": "Se afirma que Israel la compró a las naciones vecinas con oro y plata.",
+            "C": "Se enseña que solo los sacerdotes podían poseerla."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 13,
+          "question": "En la sección “El lugar de la bendición”, ¿qué ejemplos se dan para ilustrar una bendición descrita en términos absolutos?",
+          "options": {
+            "A": "Que habría mendigos por todas partes y escasez constante.",
+            "B": "Que no habría mendigos y que los graneros nunca estarían vacíos.",
+            "C": "Que el pueblo viviría sin leyes ni mandamientos."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 14,
+          "question": "¿Con qué concepto se resume la vida de bendición en la tierra prometida, según el texto?",
+          "options": {
+            "A": "Con la idea de “reposo”.",
+            "B": "Con la idea de “exilio”.",
+            "C": "Con la idea de “confusión”."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 15,
+          "question": "Según la unidad, ¿qué “sorpresa” aparece junto con el énfasis en la tierra como regalo?",
+          "options": {
+            "A": "Que la tierra se presenta también como el lugar de obediencia a la ley de Dios para vivir y poseerla.",
+            "B": "Que la tierra debía ser abandonada inmediatamente después de entrar.",
+            "C": "Que la obediencia ya no tenía importancia en absoluto."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 16,
+          "question": "Según la sección “La otra posibilidad” (Dt 30:15-20), ¿qué representa el “camino” de vida?",
+          "options": {
+            "A": "Vivir según la propia sabiduría sin escuchar a Dios.",
+            "B": "Amar al Señor, escuchar su voz y seguir sus mandamientos.",
+            "C": "Buscar alianzas militares y depender de otros pueblos."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 17,
+          "question": "Según esa misma sección, ¿qué consecuencia se asocia al “camino” de muerte?",
+          "options": {
+            "A": "Que el pueblo viviría largos días en la tierra sin importar su conducta.",
+            "B": "Que serían desarraigados y no vivirían largos días en la tierra.",
+            "C": "Que recibirían más prosperidad y seguridad."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 18,
+          "question": "¿Qué hecho marca el inicio del liderazgo de Josué en el establecimiento de la tierra prometida?",
+          "options": {
+            "A": "La muerte de Moisés y el llamado de Dios a Josué para guiar al pueblo.",
+            "B": "La construcción del templo en Jerusalén.",
+            "C": "La división del reino entre Israel y Judá."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "question": "En la sección sobre Josué, ¿qué se enfatiza respecto a la conquista de la tierra?",
+          "options": {
+            "A": "Que fue principalmente un logro militar humano por estrategias superiores.",
+            "B": "Que fue una conquista divina: Dios cumple sus promesas y da la tierra.",
+            "C": "Que fue una derrota total de Israel en todas las campañas."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 20,
+          "question": "Según Josué 21:43-45 citado en la unidad, ¿qué afirma el texto sobre las promesas de Dios?",
+          "options": {
+            "A": "Que muchas promesas fallaron por falta de poder.",
+            "B": "Que no faltó palabra de todas las buenas promesas: todas se cumplieron.",
+            "C": "Que solo se cumplieron promesas menores, no las principales."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 21,
+          "question": "¿Qué instrucción clave se destaca en Josué 1:8 respecto a “el libro de la ley”?",
+          "options": {
+            "A": "Que debía guardarse en secreto y no hablarse de él.",
+            "B": "Que no debía apartarse de la boca; debía meditarse día y noche para hacer conforme a todo lo escrito.",
+            "C": "Que debía leerse solo una vez al año en una ceremonia."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 22,
+          "question": "En Jueces 2:11-13 (según la unidad), ¿cuál fue el pecado central del pueblo en la tierra?",
+          "options": {
+            "A": "Sirvieron a Baal y Astarot, dejando al Señor.",
+            "B": "Construyeron el arca del pacto por primera vez.",
+            "C": "Tradujeron la ley a otro idioma por razones políticas."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 23,
+          "question": "Según Jueces 2:14-16 explicado en el texto, ¿cómo se describe la respuesta de Dios y su gracia en ese periodo?",
+          "options": {
+            "A": "Dios ignora el pecado; no hay consecuencias ni intervención.",
+            "B": "Dios entrega al pueblo en manos de sus enemigos, y luego levanta jueces para librarlos.",
+            "C": "Dios prohíbe cualquier liderazgo humano y deja al pueblo sin guía."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 24,
+          "question": "¿Cuál de las siguientes listas corresponde a los seis jueces mencionados en la unidad?",
+          "options": {
+            "A": "Otoniel, Aod, Débora, Gedeón, Jefté, Sansón.",
+            "B": "Abraham, Isaac, Jacob, Moisés, Aarón, Josué.",
+            "C": "Saúl, David, Salomón, Roboam, Jeroboam, Ezequías."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 25,
+          "question": "Según la unidad, ¿cómo se describe el “comienzo” de la monarquía en Israel?",
+          "options": {
+            "A": "Como una institución introducida por concesión a pecaminosas peticiones del pueblo, tras ignorar la advertencia de Samuel.",
+            "B": "Como un mandato inmediato y perfecto del pueblo, sin advertencias ni riesgos.",
+            "C": "Como una decisión tomada por reyes extranjeros para controlar a Israel."
+          },
+          "answer": "A"
+        }
+      ],
+      "answer_key": {
+        "1": "B",
+        "2": "A",
+        "3": "A",
+        "4": "A",
+        "5": "A",
+        "6": "B",
+        "7": "B",
+        "8": "A",
+        "9": "B",
+        "10": "A",
+        "11": "B",
+        "12": "A",
+        "13": "B",
+        "14": "A",
+        "15": "A",
+        "16": "B",
+        "17": "B",
+        "18": "A",
+        "19": "B",
+        "20": "B",
+        "21": "B",
+        "22": "B",
+        "23": "A",
+        "24": "B",
+        "25": "A"
+      }
+    },
+    {
+      "chapter": 5,
+      "title": "Preguntas – Capítulo 5 (MOCLAM) – Formato ABC",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Después de la muerte de Saúl, ¿qué tribu fue la primera en designar a David como rey (2 Samuel 2:4)?",
+          "options": {
+            "A": "Efraín",
+            "B": "Judá",
+            "C": "Benjamín"
+          },
+          "answer": "B"
+        },
+        {
+          "id": 2,
+          "question": "Según la unidad, ¿por qué Jerusalén se transformó en la “Ciudad de David” y ciudad real de toda Israel (2 Samuel 5:6-9)?",
+          "options": {
+            "A": "Porque era la ciudad más grande de Judá desde siempre.",
+            "B": "Porque fue conquistada por la tribu de Benjamín y luego entregada a David.",
+            "C": "Porque no era propiedad de ninguna tribu (aún no había sido tomada por Israel) y se volvió capital “neutral” para todo el pueblo."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 3,
+          "question": "Al leer 2 Samuel 5:12, ¿qué entendió David sobre el origen y propósito de su reinado?",
+          "options": {
+            "A": "Que Jehová lo había confirmado como rey y había engrandecido su reino por amor a Israel.",
+            "B": "Que su éxito dependía únicamente de su estrategia militar y alianzas.",
+            "C": "Que el reino debía enfocarse primero en la expansión comercial y no en el pueblo."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 4,
+          "question": "Al llevar el arca del pacto a Jerusalén (2 Samuel 6), ¿qué aspecto del reinado de David se subraya en la unidad?",
+          "options": {
+            "A": "Que David estableció un reinado absoluto donde nadie más tenía autoridad.",
+            "B": "Que el reinado fue un obsequio de Dios y que el verdadero Rey de Jerusalén era Jehová.",
+            "C": "Que el arca era solo un símbolo cultural sin relación con la presencia de Dios."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 5,
+          "question": "Según el recuadro “¿Sabías tú que...?”, ¿de qué madera estaba hecha el arca del pacto?",
+          "options": {
+            "A": "Acacia",
+            "B": "Cedro del Líbano",
+            "C": "Olivo"
+          },
+          "answer": "A"
+        },
+        {
+          "id": 6,
+          "question": "En 2 Samuel 7:2, ¿qué quería hacer David para el arca (antes de recibir la palabra de Natán)?",
+          "options": {
+            "A": "Trasladarla a Hebrón para evitar conflictos en Jerusalén.",
+            "B": "Dejarla permanentemente en el desierto como recordatorio del éxodo.",
+            "C": "Construir una “casa” para el arca, comparable a su palacio."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 7,
+          "question": "Según 2 Samuel 7:10-11, ¿qué prometió Dios respecto a la situación del pueblo en la tierra?",
+          "options": {
+            "A": "Que Israel no tendría necesidad de reyes humanos nunca más.",
+            "B": "Que el pueblo viviría en un “lugar” con paz y “descanso”.",
+            "C": "Que el pueblo debía volver a Egipto para consolidar su identidad."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 8,
+          "question": "Según 2 Samuel 7:13-14, ¿qué se afirma sobre el templo y la relación de Dios con el descendiente de David?",
+          "options": {
+            "A": "El hijo de David construiría el templo y Dios tendría con él una relación de padre con hijo.",
+            "B": "David mismo construiría el templo y Natán sería el sumo sacerdote permanente.",
+            "C": "El templo se construiría en Samaria como símbolo de unidad nacional."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 9,
+          "question": "¿Qué rasgo clave se enfatiza de la promesa a David en 2 Samuel 7:16, según la unidad?",
+          "options": {
+            "A": "Que duraría solo durante la vida de David.",
+            "B": "Que dependía totalmente del poder militar de Israel.",
+            "C": "Que el trono del linaje de David sería establecido “para siempre”."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 10,
+          "question": "En el Salmo 2 (mencionado en la unidad), ¿cómo se presenta al rey de Jerusalén en relación con las promesas de Dios?",
+          "options": {
+            "A": "Como un sacerdote levita sin autoridad política.",
+            "B": "Como el Hijo/ungido de Dios, destinado a reinar con autoridad incluso sobre las naciones.",
+            "C": "Como un juez temporal elegido solo para tiempos de crisis."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 11,
+          "question": "¿Qué relato se usa para mostrar el carácter pecaminoso de David y su indignidad frente a las promesas recibidas?",
+          "options": {
+            "A": "La historia de David y Betsabé (2 Samuel 11–12).",
+            "B": "La travesía de Israel por el Mar Rojo (Éxodo 14).",
+            "C": "La construcción del tabernáculo en el desierto (Éxodo 25–31)."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 12,
+          "question": "En 1 Reyes 3, ¿qué pidió Salomón a Dios al comenzar a reinar, según la unidad?",
+          "options": {
+            "A": "Riquezas inmediatas y fama internacional.",
+            "B": "Larga vida por encima de todos sus enemigos.",
+            "C": "Sabiduría/entendimiento para gobernar con justicia."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 13,
+          "question": "Según la unidad, ¿cuál fue el logro más importante del reinado de Salomón?",
+          "options": {
+            "A": "La construcción del templo en Jerusalén (1 Reyes 6–8).",
+            "B": "La conquista de Jericó por segunda vez.",
+            "C": "El regreso del exilio babilónico."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 14,
+          "question": "Según la síntesis de 1 Reyes 8 (oración de Salomón), ¿cuál afirmación resume mejor el significado del templo?",
+          "options": {
+            "A": "El templo garantizaba automáticamente la bendición, aunque el pueblo desobedeciera.",
+            "B": "El templo se construyó en cumplimiento de promesas; es símbolo de la presencia de Dios y lugar de oración y perdón.",
+            "C": "El templo reemplazó por completo la necesidad de escuchar la palabra de Dios."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 15,
+          "question": "¿Qué “vestigio” del propósito global de Dios se ve en 1 Reyes 8:41-43, según la unidad?",
+          "options": {
+            "A": "Que Israel debía aislarse de todas las naciones para siempre.",
+            "B": "Que solo los israelitas podrían acercarse a Dios en el templo.",
+            "C": "Que desde el templo se divulgaría el conocimiento de Dios a todos los pueblos de la tierra."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 16,
+          "question": "¿Qué episodio se menciona como evidencia de la gloria del reino de Salomón ante otras naciones?",
+          "options": {
+            "A": "La expulsión de los filisteos de Canaán por Josué.",
+            "B": "La construcción de los muros de Jerusalén por Nehemías.",
+            "C": "La visita de la reina de Sabá (1 Reyes 10)."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 17,
+          "question": "Según 1 Reyes 11 y la unidad, ¿cuál fue la razón fundamental de la ira de Dios con Salomón?",
+          "options": {
+            "A": "Su corazón se desvió tras otros dioses, influido por sus mujeres extranjeras.",
+            "B": "Se negó a construir el templo y destruyó el arca del pacto.",
+            "C": "Rechazó por completo la sabiduría y prohibió la ley."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 18,
+          "question": "Según la unidad, ¿cómo mitigó Dios su juicio sobre Salomón y su casa?",
+          "options": {
+            "A": "Eliminó de inmediato toda la dinastía de David sin excepción.",
+            "B": "Anuló las promesas hechas a David por causa del pecado de Salomón.",
+            "C": "No abandonó por completo a Jerusalén ni a la casa de David (por amor a David)."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 19,
+          "question": "Después de la muerte de Salomón (1 Reyes 12), ¿qué combinación corresponde al reparto del reino?",
+          "options": {
+            "A": "Jeroboam quedó con Judá; Roboam quedó con Israel.",
+            "B": "Roboam quedó como rey de Judá; Jeroboam fue rey del resto de Israel.",
+            "C": "Saúl volvió a reinar en Israel; David quedó solo con Jerusalén."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 20,
+          "question": "¿En qué consistió el “pecado de Jeroboam” (1 Reyes 12:25-33), según la unidad?",
+          "options": {
+            "A": "Erigió ídolos en Betel y Dan para ofrecer una alternativa al templo de Jerusalén.",
+            "B": "Ordenó destruir el templo y trasladar el sacerdocio a Babilonia.",
+            "C": "Prohibió toda adoración en Israel por motivos de pureza."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 21,
+          "question": "Según la unidad, ¿por qué los profetas son figuras centrales en 1 y 2 de Reyes?",
+          "options": {
+            "A": "Porque reemplazan a los reyes y gobiernan políticamente el país.",
+            "B": "Porque el curso de la historia se entiende a la luz de la palabra de Dios que ellos anuncian.",
+            "C": "Porque escriben la mayor parte de los salmos usados en la coronación."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 22,
+          "question": "Según 2 Reyes 17:13 (mencionado en la unidad), ¿cuál era la función básica de los profetas?",
+          "options": {
+            "A": "Decorar el templo y dirigir los sacrificios diarios como sacerdotes.",
+            "B": "Seleccionar reyes por votación popular en cada generación.",
+            "C": "Advertir y llamar al pueblo a volver a Dios y obedecer sus mandamientos."
+          },
+          "answer": "C"
+        },
+        {
+          "id": 23,
+          "question": "Según la unidad, ¿qué sintetiza mejor el mensaje de Amós al reino del norte?",
+          "options": {
+            "A": "Un anuncio de juicio y “fin” para Israel, aunque con esperanza ligada a las promesas a David (Am 8:2; 9:11-15).",
+            "B": "Un llamado a abandonar la ley de Dios por ser demasiado estricta.",
+            "C": "Una invitación a trasladar el templo a Dan y Betel."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 24,
+          "question": "Según la unidad, ¿qué destaca Oseas (por ejemplo en Oseas 11) sobre la relación de Dios con Israel?",
+          "options": {
+            "A": "Solo condenación sin posibilidad de restauración.",
+            "B": "El amor de Dios despreciado por el pueblo, con juicio real, pero sin que sea el fin definitivo.",
+            "C": "Que Israel nunca pecó realmente, solo fue incomprendido por los profetas."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 25,
+          "question": "Según 2 Reyes 23:26-27 (mencionado en la unidad), ¿por qué las reformas de Josías no evitaron el juicio final sobre Judá?",
+          "options": {
+            "A": "Porque no pudieron eliminar la culpa acumulada por la maldad de Manasés.",
+            "B": "Porque Josías fue peor que Manasés y provocó mayor idolatría.",
+            "C": "Porque Judá fue juzgada solo por razones económicas y militares, no espirituales."
+          },
+          "answer": "A"
+        }
+      ],
+      "answer_key": {
+        "1": "B",
+        "2": "C",
+        "3": "A",
+        "4": "B",
+        "5": "A",
+        "6": "C",
+        "7": "B",
+        "8": "A",
+        "9": "C",
+        "10": "B",
+        "11": "A",
+        "12": "C",
+        "13": "A",
+        "14": "B",
+        "15": "C",
+        "16": "C",
+        "17": "A",
+        "18": "C",
+        "19": "B",
+        "20": "A",
+        "21": "B",
+        "22": "C",
+        "23": "A",
+        "24": "B",
+        "25": "A"
+      }
+    },
+    {
+      "chapter": 6,
+      "title": "Capítulo 6 (Unidad 6): El propósito renovado de Dios",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Según la Unidad 6, ¿qué pregunta surge tras el fracaso de Israel descrito en la unidad anterior?",
+          "options": {
+            "A": "¿Cambiaría Dios de idea?",
+            "B": "¿Qué idioma hablaban originalmente los patriarcas?",
+            "C": "¿Cuántos años exactos duró la construcción del templo de Salomón?"
+          },
+          "answer": "A"
+        },
+        {
+          "id": 2,
+          "question": "En la Unidad 6, el exilio se presenta como juicio porque el pueblo:",
+          "options": {
+            "A": "Nunca recibió un pacto de parte de Dios.",
+            "B": "Quebrantó repetidas veces el pacto y debía ser excluido de la tierra y de la bendición.",
+            "C": "Fue demasiado débil militarmente para defenderse, sin relación con su obediencia."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 3,
+          "question": "¿Qué advertencia del Pentateuco se menciona como marco para entender la exclusión de la tierra?",
+          "options": {
+            "A": "Deuteronomio 28:58-68.",
+            "B": "Génesis 1:1-3.",
+            "C": "Salmo 23:1-6."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 4,
+          "question": "Según la unidad, ¿qué se realza especialmente en esta época respecto a los líderes de Israel?",
+          "options": {
+            "A": "El éxito perfecto de los reyes en guiar al pueblo.",
+            "B": "El fracaso de los reyes en conducir al pueblo por los caminos de Dios.",
+            "C": "La ausencia total de reyes en Jerusalén desde David."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 5,
+          "question": "En el ‘patrón de la restauración’, ¿qué propósito tendría el exilio para el pueblo?",
+          "options": {
+            "A": "Que Dios pudiera darles un corazón para conocerlo.",
+            "B": "Que aprendieran nuevas técnicas agrícolas de Babilonia.",
+            "C": "Que dejaran de ser pueblo y se disolvieran entre las naciones."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 6,
+          "question": "Según la unidad, cuando los profetas hablan de la renovación del propósito de Dios, lo hacen:",
+          "options": {
+            "A": "Con ideas totalmente nuevas, sin relación con la historia de Israel.",
+            "B": "En términos de un regreso a las estructuras del reino reveladas desde el éxodo hasta Salomón.",
+            "C": "Solo con profecías numéricas sobre fechas y calendarios."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 7,
+          "question": "¿Cuál es la “gran diferencia” de la historia futura respecto del pasado, según el texto citado?",
+          "options": {
+            "A": "Que ninguna de las debilidades del pasado estará presente y el pecado será erradicado.",
+            "B": "Que Israel regresará a Egipto para repetir literalmente el éxodo.",
+            "C": "Que la ley de Dios será abolida para siempre en toda circunstancia."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 8,
+          "question": "Según la Unidad 6, como resultado del proceso de renovación:",
+          "options": {
+            "A": "Los gentiles serían atraídos para compartir las bendiciones prometidas a Israel.",
+            "B": "Las naciones serían excluidas para siempre de toda bendición.",
+            "C": "Israel dejaría de tener cualquier rol en el plan de Dios."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 9,
+          "question": "En el ‘nuevo éxodo’ (Is 40:1-11), el primer elemento destacado es:",
+          "options": {
+            "A": "La conquista militar de Babilonia por Israel.",
+            "B": "La liberación del cautiverio del pueblo de Dios en Babilonia.",
+            "C": "La construcción inmediata del templo en Jerusalén antes del regreso."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 10,
+          "question": "En el nuevo éxodo, ¿cómo se describe el viaje desde Babilonia a Palestina?",
+          "options": {
+            "A": "Como una repetición del éxodo desde Egipto bajo la dirección de Moisés, como si fuera un sendero a través del mar.",
+            "B": "Como un viaje marítimo comercial organizado por Fenicia.",
+            "C": "Como una migración sin intervención de Dios."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 11,
+          "question": "Según la Unidad 6, el ‘camino en el desierto’ enfatiza que:",
+          "options": {
+            "A": "Dios formará un camino y proveerá milagrosamente lo necesario durante el recorrido.",
+            "B": "El desierto no aparece en ninguna profecía de restauración.",
+            "C": "El pueblo deberá depender únicamente de sus recursos sin ayuda divina."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 12,
+          "question": "¿Qué resultado menciona la unidad sobre este gran acto de redención respecto a Dios?",
+          "options": {
+            "A": "Solo Israel lo notará; las naciones no verán nada.",
+            "B": "Dios será glorificado por su pueblo y por las naciones que ven la redención.",
+            "C": "La redención disminuirá la gloria de Dios para evitar orgullo humano."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 13,
+          "question": "En Isaías 42–53, la figura llamada ‘mi siervo’ se presenta a veces como:",
+          "options": {
+            "A": "Un ángel sin relación con Israel.",
+            "B": "Israel mismo, y otras veces como una persona elegida por Dios para rescatar al remanente.",
+            "C": "El faraón de Egipto como símbolo de poder."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 14,
+          "question": "Según Isaías 45:1-7 citado, ¿a quién usaría Dios de manera extraña para hacer regresar a su pueblo a Palestina?",
+          "options": {
+            "A": "A Ciro, rey de Persia, aunque él no reconozca a Dios.",
+            "B": "A Nabucodonosor, rey de Babilonia, como salvador final.",
+            "C": "A Herodes, rey de Judea, para restaurar el templo."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 15,
+          "question": "¿Por qué la obra del Siervo va más allá de lo que pudiera hacer Ciro?",
+          "options": {
+            "A": "Porque el Siervo solucionará el problema del pecado del pueblo de Dios.",
+            "B": "Porque el Siervo construirá un imperio político mundial.",
+            "C": "Porque el Siervo reemplazará la necesidad de perdón."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 16,
+          "question": "¿Qué aspecto del Siervo se presenta como un misterio decisivo en Isaías 53?",
+          "options": {
+            "A": "Que morirá para llevar a cabo su obra.",
+            "B": "Que nunca sufrirá ni enfrentará oposición.",
+            "C": "Que será coronado en Babilonia como rey persa."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 17,
+          "question": "Según la unidad, el ‘nuevo pacto’ (Jer 31:31-34) hace posible que el pueblo:",
+          "options": {
+            "A": "Obedezca por fuerza externa sin transformación interna.",
+            "B": "Tenga un nuevo corazón y un nuevo espíritu, con el Espíritu de Dios en ellos para andar en sus caminos.",
+            "C": "Abandone totalmente la ley de Moisés como irrelevante."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 18,
+          "question": "La base de esta renovación interna incluye la promesa:",
+          "options": {
+            "A": "“Perdonaré la maldad de ellos, y no me acordaré más de su pecado”.",
+            "B": "“Nunca más habrá necesidad de arrepentimiento”.",
+            "C": "“La idolatría será aprobada para unir a las naciones”."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "question": "En la sección ‘un nuevo rey’ (Is 11:1-12), el rey prometido es descrito como:",
+          "options": {
+            "A": "Una vara del tronco de Isaí, ungida con el Espíritu de Dios para regir con sabiduría y justicia.",
+            "B": "Un sucesor de Ciro elegido por estrategia militar.",
+            "C": "Un sacerdote levita que reemplazará por completo la casa de David."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 20,
+          "question": "Según la unidad, el dominio de este rey produciría:",
+          "options": {
+            "A": "Una armonía semejante al huerto del Edén.",
+            "B": "Una expansión del exilio hacia más territorios.",
+            "C": "Una separación definitiva entre creación y humanidad."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 21,
+          "question": "La unidad enseña que Dios es el verdadero pastor de su pueblo, pero expresará su dominio por medio de:",
+          "options": {
+            "A": "Un nuevo rey descendiente de David que pastoree al pueblo.",
+            "B": "Una alianza permanente con Babilonia.",
+            "C": "La eliminación de todo liderazgo en Israel."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 22,
+          "question": "Según la unidad, la esperanza de los profetas era que Dios restableciera el pacto a través de alguien que:",
+          "options": {
+            "A": "Reflejara el carácter y gobierno de Dios.",
+            "B": "Fuera elegido solo por apariencia y prestigio humano.",
+            "C": "No tuviera relación con la línea de David."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 23,
+          "question": "¿Qué significa el nombre ‘Emanuel’ y qué indica en relación al hijo prometido de David (Is 7:13-14)?",
+          "options": {
+            "A": "Significa ‘Dios está con nosotros’ e indica una garantía de la presencia permanente de Dios y continuidad del pacto.",
+            "B": "Significa ‘Dios nos abandona’ e indica el fin definitivo del pacto.",
+            "C": "Significa ‘Dios es lejano’ e indica que Dios no habitará con su pueblo."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 24,
+          "question": "Según la unidad, ¿cuál de estas afirmaciones resume mejor cómo los gentiles participarían de la salvación?",
+          "options": {
+            "A": "Serían atraídos para compartir la bendición: el Siervo sería luz a las naciones y las naciones vendrían a Sión/Jerusalén.",
+            "B": "Serían excluidos para siempre por no pertenecer a Israel.",
+            "C": "Solo podrían participar adoptando primero la ciudadanía persa."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 25,
+          "question": "Después del exilio (a partir de 538 a. C.), ¿qué describe la unidad como una realidad histórica y su evaluación teológica?",
+          "options": {
+            "A": "Los exiliados regresan, reconstruyen con oposición y estímulo profético; aun así, el cumplimiento es solo una sombra y se espera más.",
+            "B": "No hubo regreso ni reconstrucción; todo terminó definitivamente en Babilonia.",
+            "C": "El retorno trajo inmediatamente la plenitud final sin necesidad de esperar nada más."
+          },
+          "answer": "A"
+        }
+      ],
+      "answer_key": {
+        "1": "A",
+        "2": "B",
+        "3": "A",
+        "4": "B",
+        "5": "A",
+        "6": "B",
+        "7": "A",
+        "8": "A",
+        "9": "B",
+        "10": "A",
+        "11": "A",
+        "12": "B",
+        "13": "B",
+        "14": "A",
+        "15": "A",
+        "16": "A",
+        "17": "B",
+        "18": "A",
+        "19": "A",
+        "20": "A",
+        "21": "A",
+        "22": "A",
+        "23": "A",
+        "24": "A",
+        "25": "A"
+      }
+    },
+    {
+      "chapter": 7,
+      "title": "Capítulo 7 (Unidad 7): Jesús, el que cumpliría las promesas de Dios",
+      "questions": [
+        {
+          "id": 1,
+          "question": "¿A quién dirige Lucas su obra al inicio del Evangelio (Lc 1:1-4)?",
+          "options": {
+            "A": "A Teófilo.",
+            "B": "A Tito.",
+            "C": "A Timoteo."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 2,
+          "question": "Según la unidad, ¿qué característica distingue a Lucas entre los escritores del NT?",
+          "options": {
+            "A": "Solo escribió cartas y no narraciones.",
+            "B": "Relata con extensión semejante la historia del Jesús terrenal y la actividad del Señor resucitado en/por los discípulos.",
+            "C": "Es el único que no menciona el reino de Dios."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 3,
+          "question": "Según la unidad, ¿por qué el libro de Hechos es tan importante para entender el NT?",
+          "options": {
+            "A": "Porque reemplaza los Evangelios.",
+            "B": "Porque abarca el periodo en que se escribió el resto del NT y sin él sabríamos poco del apóstol Pablo.",
+            "C": "Porque fue escrito antes del Antiguo Testamento."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 4,
+          "question": "En Lc 1:1-4, Lucas declara que su intención es presentar:",
+          "options": {
+            "A": "Un relato ordenado y bien documentado del ministerio de Jesús, basado en testigos oculares y ministros de la palabra.",
+            "B": "Una colección de proverbios sin orden.",
+            "C": "Un resumen breve sin referencias a fuentes."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 5,
+          "question": "Según la unidad, la repentina aparición de anuncios proféticos (María, Zacarías, Simeón) y mensajes de ángeles en Lc 1–2 anuncian:",
+          "options": {
+            "A": "La llegada de la era del Mesías.",
+            "B": "El fin definitivo de toda promesa.",
+            "C": "El inicio del exilio en Babilonia."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 6,
+          "question": "En las narraciones de la infancia, Jesús es presentado como:",
+          "options": {
+            "A": "Un líder político elegido por Roma.",
+            "B": "El rey prometido del linaje de David y “Cristo el Señor”.",
+            "C": "Un profeta menor sin relación con David."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 7,
+          "question": "Según la unidad, los israelitas devotos que buscaban la “consolación” o “redención” de Israel (Lc 2:25,38) reflejan que:",
+          "options": {
+            "A": "Esperaban que el exilio terminara.",
+            "B": "Creían que ya no existía pecado.",
+            "C": "Rechazaban toda esperanza de salvación."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 8,
+          "question": "La venida de Jesús significaba salvación y gloria para Israel y también:",
+          "options": {
+            "A": "“Luz para revelación a los gentiles”, cumpliendo profecías como Isaías 49:5-6.",
+            "B": "Solo beneficio para una élite religiosa.",
+            "C": "La desaparición total de las naciones."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 9,
+          "question": "Cuando Lucas dice que “vino la palabra de Dios” a Juan en el desierto (Lc 3:2), la unidad señala que esto indica:",
+          "options": {
+            "A": "Un llamado profético similar al de los profetas del AT.",
+            "B": "Un mensaje filosófico sin relación con el AT.",
+            "C": "Un hecho simbólico sin contenido histórico."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 10,
+          "question": "Según la unidad, el ministerio de Juan el Bautista fue único porque se le llamó a:",
+          "options": {
+            "A": "Hacer preparativos para la última venida de Dios en juicio y salvación, cumpliendo Isaías 40:3-5.",
+            "B": "Fundar un imperio militar en Judea.",
+            "C": "Sustituir a Jesús en el plan de Dios."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 11,
+          "question": "Juan predicó “bautismo del arrepentimiento para perdón de pecados” ofreciendo la oportunidad de huir de:",
+          "options": {
+            "A": "La “ira venidera”.",
+            "B": "La pobreza material exclusivamente.",
+            "C": "La persecución romana únicamente."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 12,
+          "question": "Juan anunció que vendría uno que bautizaría:",
+          "options": {
+            "A": "Solo con agua.",
+            "B": "“En Espíritu Santo y fuego”.",
+            "C": "Con aceite y vino."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 13,
+          "question": "Según el texto, las valientes predicaciones de Juan lo llevaron a ser:",
+          "options": {
+            "A": "Corregado con riquezas y honor.",
+            "B": "Encarcelado por Herodes.",
+            "C": "Coronado como rey en Jerusalén."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 14,
+          "question": "La genealogía de Lc 3:23-38 relaciona a Jesús con Adán y enfatiza:",
+          "options": {
+            "A": "Su importancia universal para toda la raza humana, no solo para la semilla de Abraham.",
+            "B": "Que Jesús no tiene conexión con la historia humana.",
+            "C": "Que el mensaje de Jesús es solo para Galilea."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 15,
+          "question": "Según la unidad, el mensaje acerca de Jesús y lo que logró debe anunciarse:",
+          "options": {
+            "A": "Solo dentro de Israel.",
+            "B": "En todas las naciones, comenzando desde Jerusalén (Lc 24:47).",
+            "C": "Solo en Babilonia, comenzando desde el desierto."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 16,
+          "question": "El relato de las tentaciones (Lc 4:1-13) muestra que Jesús vino para:",
+          "options": {
+            "A": "Derrotar al diablo y a todo poder que esclavizara al pueblo de Dios.",
+            "B": "Evitar toda confrontación espiritual.",
+            "C": "Enseñar que el pecado no existe."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 17,
+          "question": "Según el texto, cuando Jesús expulsa demonios declara que:",
+          "options": {
+            "A": "“Si por el dedo de Dios echo yo fuera los demonios, ciertamente el reino de Dios ha llegado a vosotros” (Lc 11:20).",
+            "B": "El reino de Dios está cancelado.",
+            "C": "Los milagros no tienen relación con el reino."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 18,
+          "question": "Después de la tentación, Jesús regresó a Galilea:",
+          "options": {
+            "A": "En el poder del Espíritu (Lc 4:14).",
+            "B": "Sin el Espíritu y sin mensaje.",
+            "C": "Para abandonar su misión."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "question": "En Nazaret, Jesús leyó Isaías 61:1-2 y afirmó:",
+          "options": {
+            "A": "“Hoy se ha cumplido esta Escritura delante de vosotros”.",
+            "B": "“Esta Escritura no se cumplirá jamás”.",
+            "C": "“Esta Escritura es solo para el pasado”."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 20,
+          "question": "Según la unidad, en su contexto original Isaías 61 se dirigía a exiliados en Babilonia (“los pobres”), pero aplicado al tiempo de Jesús significa que el Siervo vino a proclamar libertad a los oprimidos por:",
+          "options": {
+            "A": "Los efectos del pecado y del poder de Satanás.",
+            "B": "La falta de agricultura y comercio.",
+            "C": "El exceso de leyes civiles."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 21,
+          "question": "La unidad señala que la prioridad de Jesús era:",
+          "options": {
+            "A": "Predicar el reino de Dios (Lc 4:42-44).",
+            "B": "Formar un ejército.",
+            "C": "Evitar hablar del reino."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 22,
+          "question": "Jesús resume su ministerio en Lc 7:22 con señales que recuerdan a Isaías, como:",
+          "options": {
+            "A": "“Los ciegos ven… los muertos son resucitados… a los pobres es anunciado el evangelio”.",
+            "B": "“Los mares se secan… las montañas desaparecen…”.",
+            "C": "“Todos los enemigos mueren al instante”."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 23,
+          "question": "Según la unidad, tras confesar los discípulos que Jesús es “el Cristo de Dios” (Lc 9:20), Jesús enseña:",
+          "options": {
+            "A": "Que su sufrimiento y muerte no tienen sentido.",
+            "B": "La necesidad de su sufrimiento y su muerte, y llama a los discípulos a compartir el sufrimiento (Lc 9:21-27).",
+            "C": "Que el reino ya está consumado plenamente."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 24,
+          "question": "En Lc 2:7–2:8 (según la unidad), la última cena y la pascua enseñan que:",
+          "options": {
+            "A": "La pascua deja de ser importante para siempre sin relación con Jesús.",
+            "B": "La muerte de Jesús es un nuevo acto de redención que inaugura el nuevo pacto (Jer 31:31-34).",
+            "C": "La redención ocurre solo por esfuerzo humano."
+          },
+          "answer": "B"
+        },
+        {
+          "id": 25,
+          "question": "Según la unidad, la resurrección y la ascensión de Jesús culminan en una comisión para:",
+          "options": {
+            "A": "Predicar en su nombre el arrepentimiento y el perdón de pecados en todas las naciones, comenzando desde Jerusalén, con poder del Espíritu.",
+            "B": "Permanecer en silencio y no testificar.",
+            "C": "Volver inmediatamente a Egipto."
+          },
+          "answer": "A"
+        }
+      ],
+      "answer_key": {
+        "1": "A",
+        "2": "B",
+        "3": "B",
+        "4": "A",
+        "5": "A",
+        "6": "B",
+        "7": "A",
+        "8": "A",
+        "9": "A",
+        "10": "A",
+        "11": "A",
+        "12": "B",
+        "13": "B",
+        "14": "A",
+        "15": "B",
+        "16": "A",
+        "17": "A",
+        "18": "A",
+        "19": "A",
+        "20": "A",
+        "21": "A",
+        "22": "A",
+        "23": "B",
+        "24": "B",
+        "25": "A"
+      }
+    },
+    {
+      "chapter": 8,
+      "title": "Capítulo 8 (Unidad 8): El evangelio para las naciones (Hechos)",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Según la unidad, ¿qué muestra el libro de Hechos en relación con el propósito de Dios de bendecir a toda la humanidad?",
+          "options": {
+            "A": "Cómo el evangelio se expande desde Jerusalén hacia las naciones.",
+            "B": "Cómo Israel elimina toda influencia extranjera mediante conquistas.",
+            "C": "Cómo el Antiguo Testamento reemplaza al Nuevo Testamento."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 2,
+          "question": "Según la unidad, ¿qué frase resume el movimiento del evangelio en Hechos desde Jerusalén hasta Roma?",
+          "options": {
+            "A": "“Acerca del Señor Jesucristo, abiertamente y sin impedimento”.",
+            "B": "“El justo por la fe vivirá”.",
+            "C": "“Mi reino no es de este mundo”."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 3,
+          "question": "¿Qué énfasis destaca Lucas en Hechos, según el texto, frente a las dificultades y oposición?",
+          "options": {
+            "A": "El triunfo de “la palabra del Señor”.",
+            "B": "La superioridad militar de las iglesias.",
+            "C": "La ausencia total de conflictos en la misión."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 4,
+          "question": "La unidad describe Hechos como “una presentación de diapositivas” principalmente porque:",
+          "options": {
+            "A": "Resume distintos avances del evangelio en secciones y etapas.",
+            "B": "Es un libro de poesía y proverbios.",
+            "C": "Es un libro sin narrativa ni personajes."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 5,
+          "question": "Según la unidad, la narración de Hechos puede dividirse en cuántas partes principales (secciones) de avance a nuevas fronteras?",
+          "options": {
+            "A": "6",
+            "B": "3",
+            "C": "12"
+          },
+          "answer": "A"
+        },
+        {
+          "id": 6,
+          "question": "¿Qué patrón de testimonio se establece explícitamente en Hechos 1:8?",
+          "options": {
+            "A": "Jerusalén → Judea → Samaria → lo último de la tierra.",
+            "B": "Galilea → Babilonia → Roma → Egipto.",
+            "C": "Jerusalén → Atenas → Esparta → Troya."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 7,
+          "question": "En la unidad, ¿qué diferencia cuantitativa se menciona entre Lucas y Hechos respecto a la mención del “reino de Dios”?",
+          "options": {
+            "A": "En Lucas aparece alrededor de 40 veces y en Hechos unas 8 veces.",
+            "B": "En Lucas aparece 8 veces y en Hechos 40 veces.",
+            "C": "En ambos aparece exactamente la misma cantidad de veces."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 8,
+          "question": "Según la unidad, la menor frecuencia del “reino” en Hechos significa que el reino fue reemplazado por otro mensaje?",
+          "options": {
+            "A": "No; el mensaje del reino sigue, pero se expresa en el anuncio de Cristo y sus beneficios.",
+            "B": "Sí; el reino fue eliminado y sustituido por moralismo.",
+            "C": "Sí; el reino quedó reservado solo para el futuro sin relación con la misión."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 9,
+          "question": "Según el texto, la predicación “del reino” de Pablo (Hch 20:25) incluía también:",
+          "options": {
+            "A": "“El evangelio de la gracia de Dios” (Hch 20:24).",
+            "B": "Un programa de expansión militar.",
+            "C": "La abolición total del perdón de pecados."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 10,
+          "question": "En el esquema de un sermón de Pablo (Hch 13:16-41), ¿qué elemento aparece como conclusión sobre Jesús?",
+          "options": {
+            "A": "Que Jesús es el Salvador prometido de Israel.",
+            "B": "Que Jesús es solo un maestro sin relación con las promesas.",
+            "C": "Que Jesús anuló la historia del AT."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 11,
+          "question": "Según el sermón de Hch 13 resumido en la unidad, ¿qué demuestra la resurrección de Jesús?",
+          "options": {
+            "A": "Que es el Hijo prometido (Sal 2) y el descendiente de David que no vuelve a corrupción.",
+            "B": "Que la muerte es irreversible para todos sin excepción.",
+            "C": "Que las promesas a David fueron canceladas."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 12,
+          "question": "Según la unidad, ¿cuál es “la gran bendición” proclamada por medio de Cristo en Hch 13:38-41?",
+          "options": {
+            "A": "El perdón de los pecados para quienes creen y se vuelven a Él.",
+            "B": "Un territorio político garantizado para Israel.",
+            "C": "La eliminación automática de toda oposición humana."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 13,
+          "question": "La unidad sostiene que tanto Pedro como Pablo predican el reino porque se centran en:",
+          "options": {
+            "A": "La majestad real de Jesús (exaltación) y las bendiciones disponibles por su muerte y resurrección.",
+            "B": "Un calendario exacto de eventos futuros.",
+            "C": "La superioridad cultural judía sobre los gentiles."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 14,
+          "question": "Según la unidad, ¿por qué los discípulos debían esperar en Jerusalén tras la ascensión?",
+          "options": {
+            "A": "Para recibir la promesa del Padre: el Espíritu Santo.",
+            "B": "Porque no podían salir por restricciones romanas permanentes.",
+            "C": "Para construir el templo antes de predicar."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 15,
+          "question": "La pregunta “¿restaurarás el reino a Israel en este tiempo?” (Hch 1:6) se relaciona con la expectativa de:",
+          "options": {
+            "A": "Que el Mesías trajera restauración a Israel, pero Jesús redirige la comprensión hacia la misión con el Espíritu.",
+            "B": "Que Israel regresara a Egipto de inmediato.",
+            "C": "Que el reino fuera únicamente político y ya completo."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 16,
+          "question": "Según la unidad, la restauración del reino comenzaría cuando los discípulos:",
+          "options": {
+            "A": "Recibieran al Espíritu Santo y fueran testigos hasta lo último de la tierra.",
+            "B": "Formaran un ejército de liberación.",
+            "C": "Conquistaran Jerusalén por la fuerza."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 17,
+          "question": "En Pentecostés (Hch 2), el Espíritu Santo es derramado por:",
+          "options": {
+            "A": "El Cristo exaltado, como se había prometido.",
+            "B": "Los líderes religiosos del templo.",
+            "C": "El imperio romano como gesto de tolerancia."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 18,
+          "question": "Según la unidad, hablar “en otras lenguas” en Pentecostés funcionó como:",
+          "options": {
+            "A": "Una señal de que la salvación se comunicaría a diversas naciones/idiomas.",
+            "B": "Un reemplazo de la predicación del evangelio.",
+            "C": "Una prueba de superioridad intelectual de los apóstoles."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "question": "La unidad enfatiza que lo que llevó a los oyentes a creer no fueron las lenguas, sino:",
+          "options": {
+            "A": "La predicación que siguió (el sermón de Pedro).",
+            "B": "El temor a castigos romanos.",
+            "C": "La obligación cultural de asistir a festividades."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 20,
+          "question": "Según la unidad, el sermón de Pedro en Hch 2 interpreta que se cumple:",
+          "options": {
+            "A": "Joel 2:28-29 (y el anuncio del “día del Señor”).",
+            "B": "Génesis 1:1-3 exclusivamente.",
+            "C": "Deuteronomio 34 únicamente."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 21,
+          "question": "Según el texto, la salvación se proclama en Hch 2 en el nombre de:",
+          "options": {
+            "A": "Jesús, presentado como Señor y Cristo.",
+            "B": "Moisés, como mediador final.",
+            "C": "Ciro, como libertador mesiánico."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 22,
+          "question": "Según la unidad, la recepción del Espíritu en Samaria (Hch 8:14-17) se vincula con:",
+          "options": {
+            "A": "La unidad entre cristianos samaritanos y los de Judea en una etapa clave del plan de salvación.",
+            "B": "La separación definitiva entre Samaria y Judea.",
+            "C": "La prohibición de que Samaria reciba el evangelio."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 23,
+          "question": "La conversión de Cornelio (Hch 10–11) es clave porque muestra:",
+          "options": {
+            "A": "La inclusión de gentiles en la salvación mesiánica y el testimonio a “lo último de la tierra”.",
+            "B": "El fin de la misión a los gentiles.",
+            "C": "Que solo los judíos podían recibir al Espíritu."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 24,
+          "question": "En Hechos 13, desde Antioquía, ¿quiénes son enviados por el Espíritu en el primer viaje misionero a Asia Menor?",
+          "options": {
+            "A": "Bernabé y Saulo (Pablo).",
+            "B": "Pedro y Juan.",
+            "C": "Esteban y Felipe."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 25,
+          "question": "Según la unidad, ¿qué suele ocurrir en la misión de Pablo respecto al orden de anuncio del evangelio?",
+          "options": {
+            "A": "Primero intenta llevar el evangelio a los judíos y luego, frente a oposición, se vuelve a los gentiles.",
+            "B": "Solo predica a gentiles y evita sinagogas.",
+            "C": "Solo predica en Jerusalén y no sale."
+          },
+          "answer": "A"
+        }
+      ],
+      "answer_key": {
+        "1": "A",
+        "2": "A",
+        "3": "A",
+        "4": "A",
+        "5": "A",
+        "6": "A",
+        "7": "A",
+        "8": "A",
+        "9": "A",
+        "10": "A",
+        "11": "A",
+        "12": "A",
+        "13": "A",
+        "14": "A",
+        "15": "A",
+        "16": "A",
+        "17": "A",
+        "18": "A",
+        "19": "A",
+        "20": "A",
+        "21": "A",
+        "22": "A",
+        "23": "A",
+        "24": "A",
+        "25": "A"
+      }
+    },
+    {
+      "chapter": 9,
+      "title": "Capítulo 9 (Unidad 9): La nueva creación y la consumación final",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Según la unidad, ¿hacia dónde se dirige toda la historia bíblica desde Génesis hasta Apocalipsis?",
+          "options": {
+            "A": "Hacia la restauración total de la creación bajo el gobierno de Dios.",
+            "B": "Hacia la desaparición definitiva del mundo material.",
+            "C": "Hacia un ciclo infinito sin propósito final."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 2,
+          "question": "La unidad afirma que la esperanza cristiana NO consiste principalmente en:",
+          "options": {
+            "A": "Escapar del mundo para vivir solo en una realidad espiritual.",
+            "B": "La resurrección y la renovación de la creación.",
+            "C": "La derrota definitiva del mal."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 3,
+          "question": "Según el capítulo, ¿qué relación existe entre la resurrección de Jesús y la nueva creación?",
+          "options": {
+            "A": "La resurrección de Jesús es el inicio (primicias) de la nueva creación.",
+            "B": "No existe ninguna relación entre ambas.",
+            "C": "La resurrección solo afecta a Jesús, no al resto de la creación."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 4,
+          "question": "Romanos 8:18-25 es citado para mostrar que la creación:",
+          "options": {
+            "A": "Gime y espera su liberación junto con los hijos de Dios.",
+            "B": "Ya fue completamente destruida por el pecado.",
+            "C": "No tiene relación con la redención humana."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 5,
+          "question": "Según la unidad, ¿qué se promete respecto al cuerpo humano en la consumación final?",
+          "options": {
+            "A": "La resurrección corporal, no solo espiritual.",
+            "B": "La eliminación definitiva del cuerpo.",
+            "C": "La reencarnación en otra forma de vida."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 6,
+          "question": "La unidad enseña que la salvación final incluye:",
+          "options": {
+            "A": "Personas redimidas viviendo en una creación renovada.",
+            "B": "Almas sin cuerpo en un estado eterno sin mundo.",
+            "C": "Solo un juicio sin restauración."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 7,
+          "question": "Según Apocalipsis 21–22, ¿qué imagen central describe el futuro definitivo?",
+          "options": {
+            "A": "Cielos nuevos y tierra nueva.",
+            "B": "Un retorno al huerto del Edén sin humanidad.",
+            "C": "Una ciudad destruida para siempre."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 8,
+          "question": "La Nueva Jerusalén desciende del cielo para indicar que:",
+          "options": {
+            "A": "Dios viene a habitar con la humanidad en la creación renovada.",
+            "B": "La humanidad debe escapar de la tierra.",
+            "C": "El cielo reemplaza completamente a la tierra."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 9,
+          "question": "Según el capítulo, ¿qué aspecto clave se restaura plenamente en la nueva creación?",
+          "options": {
+            "A": "La relación entre Dios y su pueblo.",
+            "B": "La autonomía humana sin Dios.",
+            "C": "El dominio del mal."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 10,
+          "question": "En Apocalipsis 21:3-4, ¿qué promesa se destaca respecto al sufrimiento?",
+          "options": {
+            "A": "Dios enjugará toda lágrima y no habrá más muerte, dolor ni clamor.",
+            "B": "El sufrimiento será eterno.",
+            "C": "El sufrimiento solo afectará a algunos pueblos."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 11,
+          "question": "La unidad recalca que el juicio final de Dios tiene como propósito principal:",
+          "options": {
+            "A": "Eliminar definitivamente el mal y restaurar la justicia.",
+            "B": "Castigar sin ningún fin redentor.",
+            "C": "Anular todas las promesas previas."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 12,
+          "question": "Según el capítulo, ¿quiénes participan de la herencia de la nueva creación?",
+          "options": {
+            "A": "Los que están en Cristo.",
+            "B": "Solo Israel étnico.",
+            "C": "Solo seres espirituales."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 13,
+          "question": "La unidad conecta la nueva creación con el reino de Dios mostrando que:",
+          "options": {
+            "A": "El reino se consuma plenamente en la nueva creación.",
+            "B": "El reino termina antes de la consumación.",
+            "C": "El reino es solo una metáfora ética."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 14,
+          "question": "Según el texto, la victoria final de Dios incluye:",
+          "options": {
+            "A": "La derrota de Satanás, la muerte y el pecado.",
+            "B": "La convivencia eterna entre el bien y el mal.",
+            "C": "La supremacía definitiva de los imperios humanos."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 15,
+          "question": "La unidad enfatiza que la esperanza futura motiva al creyente a:",
+          "options": {
+            "A": "Vivir fielmente en el presente como anticipo de la nueva creación.",
+            "B": "Desentenderse del mundo actual.",
+            "C": "Postergar toda obediencia hasta el futuro."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 16,
+          "question": "Según el capítulo, ¿qué continuidad existe entre la creación original y la nueva creación?",
+          "options": {
+            "A": "Dios restaura y renueva, no desecha su creación.",
+            "B": "Dios abandona completamente la creación original.",
+            "C": "No existe ninguna continuidad entre ambas."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 17,
+          "question": "La resurrección final de los creyentes se describe como:",
+          "options": {
+            "A": "Una transformación gloriosa del cuerpo.",
+            "B": "Una liberación definitiva del cuerpo.",
+            "C": "Un evento simbólico sin realidad futura."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 18,
+          "question": "La unidad subraya que la nueva creación es:",
+          "options": {
+            "A": "Tanto un don futuro como una esperanza que comienza a vivirse ahora.",
+            "B": "Exclusivamente futura sin impacto presente.",
+            "C": "Solo una idea poética sin implicaciones reales."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "question": "Según el capítulo, ¿qué rol cumple el Espíritu Santo en relación con la esperanza futura?",
+          "options": {
+            "A": "Es garantía y anticipo (arras) de la herencia futura.",
+            "B": "No tiene ningún rol en la consumación.",
+            "C": "Actúa solo en el pasado bíblico."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 20,
+          "question": "La unidad señala que la ética cristiana se basa en:",
+          "options": {
+            "A": "Vivir hoy conforme a la realidad futura prometida por Dios.",
+            "B": "Adaptarse completamente a los valores del mundo.",
+            "C": "Ignorar toda responsabilidad presente."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 21,
+          "question": "Según Apocalipsis 22, ¿qué imagen reaparece de Génesis para mostrar restauración?",
+          "options": {
+            "A": "El árbol de la vida.",
+            "B": "La torre de Babel.",
+            "C": "El diluvio."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 22,
+          "question": "La unidad afirma que en la nueva creación:",
+          "options": {
+            "A": "No habrá más maldición.",
+            "B": "La maldición continuará parcialmente.",
+            "C": "La creación seguirá sujeta al pecado."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 23,
+          "question": "Según el capítulo, la esperanza cristiana culmina en:",
+          "options": {
+            "A": "Dios habitando con su pueblo para siempre.",
+            "B": "La autosuficiencia humana.",
+            "C": "El olvido de la historia de la salvación."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 24,
+          "question": "La unidad concluye que la visión bíblica del futuro es:",
+          "options": {
+            "A": "Profundamente esperanzadora y transformadora para el presente.",
+            "B": "Pesimista y sin impacto en la vida actual.",
+            "C": "Solo relevante para estudios académicos."
+          },
+          "answer": "A"
+        },
+        {
+          "id": 25,
+          "question": "Finalmente, el capítulo recalca que la nueva creación confirma que:",
+          "options": {
+            "A": "Dios es fiel y cumple plenamente todas sus promesas.",
+            "B": "Las promesas de Dios fueron simbólicas y no literales.",
+            "C": "El plan de Dios quedó inconcluso."
+          },
+          "answer": "A"
+        }
+      ],
+      "answer_key": {
+        "1": "A",
+        "2": "A",
+        "3": "A",
+        "4": "A",
+        "5": "A",
+        "6": "A",
+        "7": "A",
+        "8": "A",
+        "9": "A",
+        "10": "A",
+        "11": "A",
+        "12": "A",
+        "13": "A",
+        "14": "A",
+        "15": "A",
+        "16": "A",
+        "17": "A",
+        "18": "A",
+        "19": "A",
+        "20": "A",
+        "21": "A",
+        "22": "A",
+        "23": "A",
+        "24": "A",
+        "25": "A"
+      }
+    }
+  ]
+}

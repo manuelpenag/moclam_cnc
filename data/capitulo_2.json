@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": "Según el capítulo, ¿cómo describe Génesis 1 la obra creativa de Dios en contraste con una “creación” humana común?",
+    "options": {
+      "A": "Dios crea “los cielos y la tierra” sin materiales ya existentes, por su orden específica.",
+      "B": "Dios solo reorganiza materiales preexistentes, como un artista que pinta un cuadro.",
+      "C": "Dios delega la creación en ángeles, sin intervenir mediante su palabra."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "¿Qué repetición en Génesis 1 enfatiza el absoluto control de Dios sobre la creación?",
+    "options": {
+      "A": "“Y dijo Dios... y fue así.”",
+      "B": "“Y temió el hombre...”",
+      "C": "“Y discutieron las naciones...”"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "La frase “y vio Dios que era bueno” sugiere principalmente que:",
+    "options": {
+      "A": "la creación cumple con los buenos propósitos de Dios en cada etapa.",
+      "B": "la creación es buena solo cuando el ser humano la controla sin límites.",
+      "C": "Dios no tiene propósitos definidos, sino que improvisa en cada día de la creación."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Según el capítulo, ¿qué muestra el hecho de que Dios nombre ciertas cosas y les atribuya funciones específicas?",
+    "options": {
+      "A": "Que la creación tiene propósito y orden según la voluntad de Dios.",
+      "B": "Que los nombres son irrelevantes y solo decorativos.",
+      "C": "Que el ser humano puede redefinir libremente el sentido de la creación."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "De acuerdo con el capítulo, ¿cuál es la tarea de la humanidad como “imagen” y “semejanza” de Dios?",
+    "options": {
+      "A": "Gobernar la creación como representantes de Dios, sin abuso, según su voluntad.",
+      "B": "Hacer uso o abuso de la creación a gusto, porque el mundo pertenece al ser humano.",
+      "C": "Vivir aislados del resto de la creación, sin responsabilidad sobre ella."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "En la narración del huerto del Edén, ¿qué verbos ilustran el sentido correcto del dominio humano sobre la creación?",
+    "options": {
+      "A": "“Labrar” y “guardar”.",
+      "B": "“Conquistar” y “destruir”.",
+      "C": "“Ignorar” y “abandonar”."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Según el capítulo, el “reposo” de Dios (Gn 2:1-3) NO significa que Dios esté:",
+    "options": {
+      "A": "inactivo.",
+      "B": "culminando su obra creativa y marcando un día de bendición y veneración.",
+      "C": "enseñando que el sentido de la vida no se reduce al trabajo y al disfrute de la creación."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "El propósito de Dios al crearnos, según el capítulo, se relaciona con:",
+    "options": {
+      "A": "gozar de una relación intacta con Dios, representada por el “reposo”.",
+      "B": "buscar significado solo en el esfuerzo laboral y en los beneficios materiales.",
+      "C": "independizarnos de Dios para lograr una existencia coherente y satisfactoria."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "En Génesis 2:16-17, la orden de Dios se presenta en el capítulo como:",
+    "options": {
+      "A": "una palabra de misericordia y advertencia, buena y proveniente del amoroso Creador.",
+      "B": "una restricción arbitraria que no tiene relación con el bien humano.",
+      "C": "una sugerencia opcional sin consecuencias."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Según el capítulo, buscar el conocimiento “del bien y del mal” implica principalmente:",
+    "options": {
+      "A": "intentar igualarse a Dios.",
+      "B": "aprender oficios prácticos para administrar el huerto.",
+      "C": "adquirir información científica neutral sobre la naturaleza."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "La consecuencia inmediata de la caída, según el capítulo, fue:",
+    "options": {
+      "A": "el rompimiento de las relaciones: con Dios, entre humanos y con la creación.",
+      "B": "la eliminación total del pecado del corazón humano.",
+      "C": "la restauración automática del reposo perfecto con Dios."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "Según el capítulo, ¿por qué se dice que Adán pecó “con los ojos abiertos”?",
+    "options": {
+      "A": "Porque recibió la orden de Dios (2:16-17) y aun así desobedeció.",
+      "B": "Porque no escuchó la orden de Dios y actuó por ignorancia.",
+      "C": "Porque la serpiente no tuvo ninguna participación en la tentación."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "¿Qué expresa la sentencia de Génesis 3:22-24 según el capítulo?",
+    "options": {
+      "A": "Expulsión del huerto y exclusión del árbol de la vida, dejando un futuro de dolor y muerte.",
+      "B": "Acceso ilimitado a la vida eterna en el huerto.",
+      "C": "Que el juicio de Dios fue simbólico y sin consecuencias reales."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "Después de la caída, ¿qué ocurre con el gozo por las diferencias entre hombre y mujer, según el capítulo?",
+    "options": {
+      "A": "Es reemplazado por dolor y conflictos en la relación.",
+      "B": "Se intensifica sin ninguna mezcla de sufrimiento.",
+      "C": "Deja de existir toda relación humana y no hay matrimonio."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "El capítulo resume un patrón en Génesis 1–11 que puede describirse como:",
+    "options": {
+      "A": "pecado → juicio → misericordia.",
+      "B": "progreso → prosperidad → perfección.",
+      "C": "silencio → duda → olvido."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "question": "¿Cuál ejemplo usa el capítulo para mostrar el rompimiento completo de las relaciones humanas tras la caída?",
+    "options": {
+      "A": "Caín mata a su hermano Abel.",
+      "B": "Israel construye el templo de Jerusalén.",
+      "C": "David derrota a Goliat."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "Según el capítulo, la frase de Gn 3:17-19 indica que el dominio humano sobre la creación sería:",
+    "options": {
+      "A": "deteriorado, convirtiendo la vida en lucha contra el ambiente y conduciendo a la muerte.",
+      "B": "perfecto e inalterable a pesar del pecado.",
+      "C": "irrelevante, porque el ser humano ya no interactuaría con la creación."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "En el juicio del diluvio, el capítulo describe la inundación como:",
+    "options": {
+      "A": "semejante a una inversión del proceso de la creación.",
+      "B": "una ceremonia simbólica sin alcance universal.",
+      "C": "una historia sin relación con el tema del pecado y del juicio."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "¿Qué muestra la decisión de Dios de salvar a Noé, su familia y animales en el arca?",
+    "options": {
+      "A": "El compromiso permanente de Dios con su creación a pesar del pecado.",
+      "B": "Que Dios abandonó definitivamente la creación.",
+      "C": "Que el pecado había desaparecido por completo de la humanidad."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Después del diluvio, Dios ofrece a la humanidad:",
+    "options": {
+      "A": "un nuevo comienzo en una creación renovada y promete no repetir un diluvio semejante.",
+      "B": "la eliminación de toda responsabilidad humana sobre la creación.",
+      "C": "la abolición de la multiplicación humana y del dominio sobre la tierra."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "En la historia de la torre de Babel, ¿qué revela la frase “y hagámonos un nombre”?",
+    "options": {
+      "A": "La arrogante presunción humana de construir una vida coherente dejando a Dios fuera.",
+      "B": "La obediencia humilde a la palabra de Dios.",
+      "C": "Un acto de adoración a Dios ordenado por los profetas."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 22,
+    "question": "Según el capítulo, ¿cuál fue la respuesta de Dios en Babel?",
+    "options": {
+      "A": "Frustrar sus propósitos mediante la confusión de idiomas.",
+      "B": "Aprobar el proyecto humano y bendecirlo sin condiciones.",
+      "C": "Eliminar toda diferencia cultural y unificar las lenguas para siempre."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "Aunque en Babel parece haber solo juicio, el capítulo señala que el relato continúa con:",
+    "options": {
+      "A": "la genealogía de Sem que conduce al llamamiento de Abraham, inicio de un plan de salvación.",
+      "B": "la instauración inmediata del reino de David.",
+      "C": "la llegada del Mesías en Génesis 11."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "Según el capítulo, la promesa implícita en Gn 3:14-15 incluye que el problema sería resuelto:",
+    "options": {
+      "A": "desde dentro de la raza humana, por la “semilla” o descendencia de la mujer.",
+      "B": "únicamente por intervención directa de animales del huerto.",
+      "C": "por la sabiduría humana acumulada sin necesidad de redención."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "question": "De acuerdo con el capítulo, ¿qué describe mejor el alcance del plan de salvación y restauración de Dios?",
+    "options": {
+      "A": "No solo trata individuos, sino toda la creación donde Dios nos ha colocado.",
+      "B": "Se limita a asuntos privados, sin relación con la creación.",
+      "C": "Apunta solo a mejorar conductas humanas sin restaurar relaciones con Dios."
+    },
+    "answer": "A"
+  }
+]

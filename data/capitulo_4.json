@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": "Según la unidad, ¿por qué Palestina tuvo un papel importante en la historia política del mundo antiguo?",
+    "options": {
+      "A": "Porque estaba aislada por desiertos y mares y casi no tenía contacto con otras naciones.",
+      "B": "Porque estaba ubicada entre grandes civilizaciones (Nilo al sur y Tigris/Eufrates al norte), en una ruta comercial clave.",
+      "C": "Porque era el centro del imperio romano durante toda la historia del Antiguo Testamento."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "¿Qué “super potencias” (según el texto) se sentían ansiosas de controlar la ruta comercial que pasaba por la región?",
+    "options": {
+      "A": "Egipto por el sur; Asiria y Babilonia por el norte.",
+      "B": "Grecia por el oeste; Persia por el este.",
+      "C": "Roma por el sur; Fenicia por el norte."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál es el área aproximada que llegó a ocupar la tierra de las tribus de Israel, según el documento?",
+    "options": {
+      "A": "25.600 km² aproximadamente.",
+      "B": "2.560 km² aproximadamente.",
+      "C": "256.000 km² aproximadamente."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "¿Cuáles son las tres características geográficas principales de norte a sur que se mencionan para Palestina?",
+    "options": {
+      "A": "La planicie costera, las montañas y el valle del Jordán.",
+      "B": "El desierto del Sahara, los Alpes y el río Danubio.",
+      "C": "Las pampas, la cordillera de los Andes y el río Amazonas."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "Según el texto, ¿en qué meses se concentran las precipitaciones más abundantes del invierno en Palestina?",
+    "options": {
+      "A": "De diciembre a marzo.",
+      "B": "De junio a septiembre.",
+      "C": "De agosto a noviembre."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "¿Qué se afirma sobre el cambio climático de Palestina desde los tiempos bíblicos, según la evidencia arqueológica citada?",
+    "options": {
+      "A": "Que el clima ha cambiado drásticamente y ya no se parece al de la época bíblica.",
+      "B": "Que no ha cambiado significativamente desde los tiempos bíblicos.",
+      "C": "Que antes no existía estación lluviosa, y ahora sí."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "Según Deuteronomio 11:10-12 (explicado en la unidad), ¿cuál es el contraste principal entre Egipto y Palestina respecto al riego y la fertilidad?",
+    "options": {
+      "A": "Egipto dependía de la lluvia, y Palestina del Nilo para regar.",
+      "B": "Egipto regaba con las aguas del Nilo; Palestina dependía de la lluvia y no tenía agua para riego.",
+      "C": "Ambas dependían de canales artificiales construidos por Israel."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "En el sentido del pasaje explicado, ¿por qué se dice que Palestina era “la tierra de Dios”?",
+    "options": {
+      "A": "Porque la fertilidad dependía de la lluvia, por lo que era una tierra cuidada por Dios y no por el hombre.",
+      "B": "Porque Israel inventó un sistema de irrigación más avanzado que el de Egipto.",
+      "C": "Porque no existían enemigos ni guerras en esa región."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "¿Cómo se describe la tierra en Deuteronomio (según el texto) para expresar su “bondad”, más allá de una descripción literal?",
+    "options": {
+      "A": "Como una tierra estéril y pedregosa, sin recursos.",
+      "B": "Como una tierra “que fluye leche y miel”, con lenguaje exagerado para resaltar la bendición de Dios.",
+      "C": "Como una tierra sin montañas ni valles, totalmente plana."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Según la unidad, ¿qué recuerda la “buena tierra” (Deuteronomio 8:7-10) respecto al propósito de Dios?",
+    "options": {
+      "A": "Recuerda el huerto del Edén como lugar de bendición.",
+      "B": "Recuerda la torre de Babel como símbolo de unidad humana.",
+      "C": "Recuerda Sodoma y Gomorra como ejemplo de prosperidad permanente."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "En Deuteronomio, ¿qué idea se enfatiza al recordar que la tierra fue prometida a Abraham, Isaac y Jacob?",
+    "options": {
+      "A": "Que Israel entraría por su propia justicia y méritos.",
+      "B": "Que Israel entraría porque Dios es fiel y cumple su promesa.",
+      "C": "Que Israel entraría por tener el ejército más fuerte de la región."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Según la sección “El regalo de Dios”, ¿cómo se recalca que la tierra no era ganada por Israel?",
+    "options": {
+      "A": "Se insiste en que Dios “da” la tierra y la entrega “por heredad”.",
+      "B": "Se afirma que Israel la compró a las naciones vecinas con oro y plata.",
+      "C": "Se enseña que solo los sacerdotes podían poseerla."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "En la sección “El lugar de la bendición”, ¿qué ejemplos se dan para ilustrar una bendición descrita en términos absolutos?",
+    "options": {
+      "A": "Que habría mendigos por todas partes y escasez constante.",
+      "B": "Que no habría mendigos y que los graneros nunca estarían vacíos.",
+      "C": "Que el pueblo viviría sin leyes ni mandamientos."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "¿Con qué concepto se resume la vida de bendición en la tierra prometida, según el texto?",
+    "options": {
+      "A": "Con la idea de “reposo”.",
+      "B": "Con la idea de “exilio”.",
+      "C": "Con la idea de “confusión”."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "Según la unidad, ¿qué “sorpresa” aparece junto con el énfasis en la tierra como regalo?",
+    "options": {
+      "A": "Que la tierra se presenta también como el lugar de obediencia a la ley de Dios para vivir y poseerla.",
+      "B": "Que la tierra debía ser abandonada inmediatamente después de entrar.",
+      "C": "Que la obediencia ya no tenía importancia en absoluto."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Según la sección “La otra posibilidad” (Dt 30:15-20), ¿qué representa el “camino” de vida?",
+    "options": {
+      "A": "Vivir según la propia sabiduría sin escuchar a Dios.",
+      "B": "Amar al Señor, escuchar su voz y seguir sus mandamientos.",
+      "C": "Buscar alianzas militares y depender de otros pueblos."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Según esa misma sección, ¿qué consecuencia se asocia al “camino” de muerte?",
+    "options": {
+      "A": "Que el pueblo viviría largos días en la tierra sin importar su conducta.",
+      "B": "Que serían desarraigados y no vivirían largos días en la tierra.",
+      "C": "Que recibirían más prosperidad y seguridad."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "¿Qué hecho marca el inicio del liderazgo de Josué en el establecimiento de la tierra prometida?",
+    "options": {
+      "A": "La muerte de Moisés y el llamado de Dios a Josué para guiar al pueblo.",
+      "B": "La construcción del templo en Jerusalén.",
+      "C": "La división del reino entre Israel y Judá."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "En la sección sobre Josué, ¿qué se enfatiza respecto a la conquista de la tierra?",
+    "options": {
+      "A": "Que fue principalmente un logro militar humano por estrategias superiores.",
+      "B": "Que fue una conquista divina: Dios cumple sus promesas y da la tierra.",
+      "C": "Que fue una derrota total de Israel en todas las campañas."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Según Josué 21:43-45 citado en la unidad, ¿qué afirma el texto sobre las promesas de Dios?",
+    "options": {
+      "A": "Que muchas promesas fallaron por falta de poder.",
+      "B": "Que no faltó palabra de todas las buenas promesas: todas se cumplieron.",
+      "C": "Que solo se cumplieron promesas menores, no las principales."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "¿Qué instrucción clave se destaca en Josué 1:8 respecto a “el libro de la ley”?",
+    "options": {
+      "A": "Que debía guardarse en secreto y no hablarse de él.",
+      "B": "Que no debía apartarse de la boca; debía meditarse día y noche para hacer conforme a todo lo escrito.",
+      "C": "Que debía leerse solo una vez al año en una ceremonia."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "En Jueces 2:11-13 (según la unidad), ¿cuál fue el pecado central del pueblo en la tierra?",
+    "options": {
+      "A": "Sirvieron a Baal y Astarot, dejando al Señor.",
+      "B": "Construyeron el arca del pacto por primera vez.",
+      "C": "Tradujeron la ley a otro idioma por razones políticas."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Según Jueces 2:14-16 explicado en el texto, ¿cómo se describe la respuesta de Dios y su gracia en ese periodo?",
+    "options": {
+      "A": "Dios ignora el pecado; no hay consecuencias ni intervención.",
+      "B": "Dios entrega al pueblo en manos de sus enemigos, y luego levanta jueces para librarlos.",
+      "C": "Dios prohíbe cualquier liderazgo humano y deja al pueblo sin guía."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "¿Cuál de las siguientes listas corresponde a los seis jueces mencionados en la unidad?",
+    "options": {
+      "A": "Otoniel, Aod, Débora, Gedeón, Jefté, Sansón.",
+      "B": "Abraham, Isaac, Jacob, Moisés, Aarón, Josué.",
+      "C": "Saúl, David, Salomón, Roboam, Jeroboam, Ezequías."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Según la unidad, ¿cómo se describe el “comienzo” de la monarquía en Israel?",
+    "options": {
+      "A": "Como una institución introducida por concesión a pecaminosas peticiones del pueblo, tras ignorar la advertencia de Samuel.",
+      "B": "Como un mandato inmediato y perfecto del pueblo, sin advertencias ni riesgos.",
+      "C": "Como una decisión tomada por reyes extranjeros para controlar a Israel."
+    },
+    "answer": "A"
+  }
+]

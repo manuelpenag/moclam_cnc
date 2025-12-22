@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": "Después de la muerte de Saúl, ¿qué tribu fue la primera en designar a David como rey (2 Samuel 2:4)?",
+    "options": {
+      "A": "Efraín",
+      "B": "Judá",
+      "C": "Benjamín"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Según la unidad, ¿por qué Jerusalén se transformó en la “Ciudad de David” y ciudad real de toda Israel (2 Samuel 5:6-9)?",
+    "options": {
+      "A": "Porque era la ciudad más grande de Judá desde siempre.",
+      "B": "Porque fue conquistada por la tribu de Benjamín y luego entregada a David.",
+      "C": "Porque no era propiedad de ninguna tribu (aún no había sido tomada por Israel) y se volvió capital “neutral” para todo el pueblo."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "Al leer 2 Samuel 5:12, ¿qué entendió David sobre el origen y propósito de su reinado?",
+    "options": {
+      "A": "Que Jehová lo había confirmado como rey y había engrandecido su reino por amor a Israel.",
+      "B": "Que su éxito dependía únicamente de su estrategia militar y alianzas.",
+      "C": "Que el reino debía enfocarse primero en la expansión comercial y no en el pueblo."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "Al llevar el arca del pacto a Jerusalén (2 Samuel 6), ¿qué aspecto del reinado de David se subraya en la unidad?",
+    "options": {
+      "A": "Que David estableció un reinado absoluto donde nadie más tenía autoridad.",
+      "B": "Que el reinado fue un obsequio de Dios y que el verdadero Rey de Jerusalén era Jehová.",
+      "C": "Que el arca era solo un símbolo cultural sin relación con la presencia de Dios."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Según el recuadro “¿Sabías tú que...?”, ¿de qué madera estaba hecha el arca del pacto?",
+    "options": {
+      "A": "Acacia",
+      "B": "Cedro del Líbano",
+      "C": "Olivo"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "En 2 Samuel 7:2, ¿qué quería hacer David para el arca (antes de recibir la palabra de Natán)?",
+    "options": {
+      "A": "Trasladarla a Hebrón para evitar conflictos en Jerusalén.",
+      "B": "Dejarla permanentemente en el desierto como recordatorio del éxodo.",
+      "C": "Construir una “casa” para el arca, comparable a su palacio."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "Según 2 Samuel 7:10-11, ¿qué prometió Dios respecto a la situación del pueblo en la tierra?",
+    "options": {
+      "A": "Que Israel no tendría necesidad de reyes humanos nunca más.",
+      "B": "Que el pueblo viviría en un “lugar” con paz y “descanso”.",
+      "C": "Que el pueblo debía volver a Egipto para consolidar su identidad."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Según 2 Samuel 7:13-14, ¿qué se afirma sobre el templo y la relación de Dios con el descendiente de David?",
+    "options": {
+      "A": "El hijo de David construiría el templo y Dios tendría con él una relación de padre con hijo.",
+      "B": "David mismo construiría el templo y Natán sería el sumo sacerdote permanente.",
+      "C": "El templo se construiría en Samaria como símbolo de unidad nacional."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "¿Qué rasgo clave se enfatiza de la promesa a David en 2 Samuel 7:16, según la unidad?",
+    "options": {
+      "A": "Que duraría solo durante la vida de David.",
+      "B": "Que dependía totalmente del poder militar de Israel.",
+      "C": "Que el trono del linaje de David sería establecido “para siempre”."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "En el Salmo 2 (mencionado en la unidad), ¿cómo se presenta al rey de Jerusalén en relación con las promesas de Dios?",
+    "options": {
+      "A": "Como un sacerdote levita sin autoridad política.",
+      "B": "Como el Hijo/ungido de Dios, destinado a reinar con autoridad incluso sobre las naciones.",
+      "C": "Como un juez temporal elegido solo para tiempos de crisis."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "¿Qué relato se usa para mostrar el carácter pecaminoso de David y su indignidad frente a las promesas recibidas?",
+    "options": {
+      "A": "La historia de David y Betsabé (2 Samuel 11–12).",
+      "B": "La travesía de Israel por el Mar Rojo (Éxodo 14).",
+      "C": "La construcción del tabernáculo en el desierto (Éxodo 25–31)."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "En 1 Reyes 3, ¿qué pidió Salomón a Dios al comenzar a reinar, según la unidad?",
+    "options": {
+      "A": "Riquezas inmediatas y fama internacional.",
+      "B": "Larga vida por encima de todos sus enemigos.",
+      "C": "Sabiduría/entendimiento para gobernar con justicia."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Según la unidad, ¿cuál fue el logro más importante del reinado de Salomón?",
+    "options": {
+      "A": "La construcción del templo en Jerusalén (1 Reyes 6–8).",
+      "B": "La conquista de Jericó por segunda vez.",
+      "C": "El regreso del exilio babilónico."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "Según la síntesis de 1 Reyes 8 (oración de Salomón), ¿cuál afirmación resume mejor el significado del templo?",
+    "options": {
+      "A": "El templo garantizaba automáticamente la bendición, aunque el pueblo desobedeciera.",
+      "B": "El templo se construyó en cumplimiento de promesas; es símbolo de la presencia de Dios y lugar de oración y perdón.",
+      "C": "El templo reemplazó por completo la necesidad de escuchar la palabra de Dios."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "¿Qué “vestigio” del propósito global de Dios se ve en 1 Reyes 8:41-43, según la unidad?",
+    "options": {
+      "A": "Que Israel debía aislarse de todas las naciones para siempre.",
+      "B": "Que solo los israelitas podrían acercarse a Dios en el templo.",
+      "C": "Que desde el templo se divulgaría el conocimiento de Dios a todos los pueblos de la tierra."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "question": "¿Qué episodio se menciona como evidencia de la gloria del reino de Salomón ante otras naciones?",
+    "options": {
+      "A": "La expulsión de los filisteos de Canaán por Josué.",
+      "B": "La construcción de los muros de Jerusalén por Nehemías.",
+      "C": "La visita de la reina de Sabá (1 Reyes 10)."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Según 1 Reyes 11 y la unidad, ¿cuál fue la razón fundamental de la ira de Dios con Salomón?",
+    "options": {
+      "A": "Su corazón se desvió tras otros dioses, influido por sus mujeres extranjeras.",
+      "B": "Se negó a construir el templo y destruyó el arca del pacto.",
+      "C": "Rechazó por completo la sabiduría y prohibió la ley."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "Según la unidad, ¿cómo mitigó Dios su juicio sobre Salomón y su casa?",
+    "options": {
+      "A": "Eliminó de inmediato toda la dinastía de David sin excepción.",
+      "B": "Anuló las promesas hechas a David por causa del pecado de Salomón.",
+      "C": "No abandonó por completo a Jerusalén ni a la casa de David (por amor a David)."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Después de la muerte de Salomón (1 Reyes 12), ¿qué combinación corresponde al reparto del reino?",
+    "options": {
+      "A": "Jeroboam quedó con Judá; Roboam quedó con Israel.",
+      "B": "Roboam quedó como rey de Judá; Jeroboam fue rey del resto de Israel.",
+      "C": "Saúl volvió a reinar en Israel; David quedó solo con Jerusalén."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "¿En qué consistió el “pecado de Jeroboam” (1 Reyes 12:25-33), según la unidad?",
+    "options": {
+      "A": "Erigió ídolos en Betel y Dan para ofrecer una alternativa al templo de Jerusalén.",
+      "B": "Ordenó destruir el templo y trasladar el sacerdocio a Babilonia.",
+      "C": "Prohibió toda adoración en Israel por motivos de pureza."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Según la unidad, ¿por qué los profetas son figuras centrales en 1 y 2 de Reyes?",
+    "options": {
+      "A": "Porque reemplazan a los reyes y gobiernan políticamente el país.",
+      "B": "Porque el curso de la historia se entiende a la luz de la palabra de Dios que ellos anuncian.",
+      "C": "Porque escriben la mayor parte de los salmos usados en la coronación."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "Según 2 Reyes 17:13 (mencionado en la unidad), ¿cuál era la función básica de los profetas?",
+    "options": {
+      "A": "Decorar el templo y dirigir los sacrificios diarios como sacerdotes.",
+      "B": "Seleccionar reyes por votación popular en cada generación.",
+      "C": "Advertir y llamar al pueblo a volver a Dios y obedecer sus mandamientos."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "question": "Según la unidad, ¿qué sintetiza mejor el mensaje de Amós al reino del norte?",
+    "options": {
+      "A": "Un anuncio de juicio y “fin” para Israel, aunque con esperanza ligada a las promesas a David (Am 8:2; 9:11-15).",
+      "B": "Un llamado a abandonar la ley de Dios por ser demasiado estricta.",
+      "C": "Una invitación a trasladar el templo a Dan y Betel."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "Según la unidad, ¿qué destaca Oseas (por ejemplo en Oseas 11) sobre la relación de Dios con Israel?",
+    "options": {
+      "A": "Solo condenación sin posibilidad de restauración.",
+      "B": "El amor de Dios despreciado por el pueblo, con juicio real, pero sin que sea el fin definitivo.",
+      "C": "Que Israel nunca pecó realmente, solo fue incomprendido por los profetas."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Según 2 Reyes 23:26-27 (mencionado en la unidad), ¿por qué las reformas de Josías no evitaron el juicio final sobre Judá?",
+    "options": {
+      "A": "Porque no pudieron eliminar la culpa acumulada por la maldad de Manasés.",
+      "B": "Porque Josías fue peor que Manasés y provocó mayor idolatría.",
+      "C": "Porque Judá fue juzgada solo por razones económicas y militares, no espirituales."
+    },
+    "answer": "A"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": "Según la Unidad 6, ¿qué pregunta surge tras el fracaso de Israel descrito en la unidad anterior?",
+    "options": {
+      "A": "¿Cambiaría Dios de idea?",
+      "B": "¿Qué idioma hablaban originalmente los patriarcas?",
+      "C": "¿Cuántos años exactos duró la construcción del templo de Salomón?"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "En la Unidad 6, el exilio se presenta como juicio porque el pueblo:",
+    "options": {
+      "A": "Nunca recibió un pacto de parte de Dios.",
+      "B": "Quebrantó repetidas veces el pacto y debía ser excluido de la tierra y de la bendición.",
+      "C": "Fue demasiado débil militarmente para defenderse, sin relación con su obediencia."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué advertencia del Pentateuco se menciona como marco para entender la exclusión de la tierra?",
+    "options": {
+      "A": "Deuteronomio 28:58-68.",
+      "B": "Génesis 1:1-3.",
+      "C": "Salmo 23:1-6."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "Según la unidad, ¿qué se realza especialmente en esta época respecto a los líderes de Israel?",
+    "options": {
+      "A": "El éxito perfecto de los reyes en guiar al pueblo.",
+      "B": "El fracaso de los reyes en conducir al pueblo por los caminos de Dios.",
+      "C": "La ausencia total de reyes en Jerusalén desde David."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "En el ‘patrón de la restauración’, ¿qué propósito tendría el exilio para el pueblo?",
+    "options": {
+      "A": "Que Dios pudiera darles un corazón para conocerlo.",
+      "B": "Que aprendieran nuevas técnicas agrícolas de Babilonia.",
+      "C": "Que dejaran de ser pueblo y se disolvieran entre las naciones."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "Según la unidad, cuando los profetas hablan de la renovación del propósito de Dios, lo hacen:",
+    "options": {
+      "A": "Con ideas totalmente nuevas, sin relación con la historia de Israel.",
+      "B": "En términos de un regreso a las estructuras del reino reveladas desde el éxodo hasta Salomón.",
+      "C": "Solo con profecías numéricas sobre fechas y calendarios."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál es la “gran diferencia” de la historia futura respecto del pasado, según el texto citado?",
+    "options": {
+      "A": "Que ninguna de las debilidades del pasado estará presente y el pecado será erradicado.",
+      "B": "Que Israel regresará a Egipto para repetir literalmente el éxodo.",
+      "C": "Que la ley de Dios será abolida para siempre en toda circunstancia."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "Según la Unidad 6, como resultado del proceso de renovación:",
+    "options": {
+      "A": "Los gentiles serían atraídos para compartir las bendiciones prometidas a Israel.",
+      "B": "Las naciones serían excluidas para siempre de toda bendición.",
+      "C": "Israel dejaría de tener cualquier rol en el plan de Dios."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "En el ‘nuevo éxodo’ (Is 40:1-11), el primer elemento destacado es:",
+    "options": {
+      "A": "La conquista militar de Babilonia por Israel.",
+      "B": "La liberación del cautiverio del pueblo de Dios en Babilonia.",
+      "C": "La construcción inmediata del templo en Jerusalén antes del regreso."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "En el nuevo éxodo, ¿cómo se describe el viaje desde Babilonia a Palestina?",
+    "options": {
+      "A": "Como una repetición del éxodo desde Egipto bajo la dirección de Moisés, como si fuera un sendero a través del mar.",
+      "B": "Como un viaje marítimo comercial organizado por Fenicia.",
+      "C": "Como una migración sin intervención de Dios."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "Según la Unidad 6, el ‘camino en el desierto’ enfatiza que:",
+    "options": {
+      "A": "Dios formará un camino y proveerá milagrosamente lo necesario durante el recorrido.",
+      "B": "El desierto no aparece en ninguna profecía de restauración.",
+      "C": "El pueblo deberá depender únicamente de sus recursos sin ayuda divina."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "¿Qué resultado menciona la unidad sobre este gran acto de redención respecto a Dios?",
+    "options": {
+      "A": "Solo Israel lo notará; las naciones no verán nada.",
+      "B": "Dios será glorificado por su pueblo y por las naciones que ven la redención.",
+      "C": "La redención disminuirá la gloria de Dios para evitar orgullo humano."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "En Isaías 42–53, la figura llamada ‘mi siervo’ se presenta a veces como:",
+    "options": {
+      "A": "Un ángel sin relación con Israel.",
+      "B": "Israel mismo, y otras veces como una persona elegida por Dios para rescatar al remanente.",
+      "C": "El faraón de Egipto como símbolo de poder."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Según Isaías 45:1-7 citado, ¿a quién usaría Dios de manera extraña para hacer regresar a su pueblo a Palestina?",
+    "options": {
+      "A": "A Ciro, rey de Persia, aunque él no reconozca a Dios.",
+      "B": "A Nabucodonosor, rey de Babilonia, como salvador final.",
+      "C": "A Herodes, rey de Judea, para restaurar el templo."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "¿Por qué la obra del Siervo va más allá de lo que pudiera hacer Ciro?",
+    "options": {
+      "A": "Porque el Siervo solucionará el problema del pecado del pueblo de Dios.",
+      "B": "Porque el Siervo construirá un imperio político mundial.",
+      "C": "Porque el Siervo reemplazará la necesidad de perdón."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "¿Qué aspecto del Siervo se presenta como un misterio decisivo en Isaías 53?",
+    "options": {
+      "A": "Que morirá para llevar a cabo su obra.",
+      "B": "Que nunca sufrirá ni enfrentará oposición.",
+      "C": "Que será coronado en Babilonia como rey persa."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "Según la unidad, el ‘nuevo pacto’ (Jer 31:31-34) hace posible que el pueblo:",
+    "options": {
+      "A": "Obedezca por fuerza externa sin transformación interna.",
+      "B": "Tenga un nuevo corazón y un nuevo espíritu, con el Espíritu de Dios en ellos para andar en sus caminos.",
+      "C": "Abandone totalmente la ley de Moisés como irrelevante."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "La base de esta renovación interna incluye la promesa:",
+    "options": {
+      "A": "“Perdonaré la maldad de ellos, y no me acordaré más de su pecado”.",
+      "B": "“Nunca más habrá necesidad de arrepentimiento”.",
+      "C": "“La idolatría será aprobada para unir a las naciones”."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "En la sección ‘un nuevo rey’ (Is 11:1-12), el rey prometido es descrito como:",
+    "options": {
+      "A": "Una vara del tronco de Isaí, ungida con el Espíritu de Dios para regir con sabiduría y justicia.",
+      "B": "Un sucesor de Ciro elegido por estrategia militar.",
+      "C": "Un sacerdote levita que reemplazará por completo la casa de David."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Según la unidad, el dominio de este rey produciría:",
+    "options": {
+      "A": "Una armonía semejante al huerto del Edén.",
+      "B": "Una expansión del exilio hacia más territorios.",
+      "C": "Una separación definitiva entre creación y humanidad."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "La unidad enseña que Dios es el verdadero pastor de su pueblo, pero expresará su dominio por medio de:",
+    "options": {
+      "A": "Un nuevo rey descendiente de David que pastoree al pueblo.",
+      "B": "Una alianza permanente con Babilonia.",
+      "C": "La eliminación de todo liderazgo en Israel."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Según la unidad, la esperanza de los profetas era que Dios restableciera el pacto a través de alguien que:",
+    "options": {
+      "A": "Reflejara el carácter y gobierno de Dios.",
+      "B": "Fuera elegido solo por apariencia y prestigio humano.",
+      "C": "No tuviera relación con la línea de David."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "¿Qué significa el nombre ‘Emanuel’ y qué indica en relación al hijo prometido de David (Is 7:13-14)?",
+    "options": {
+      "A": "Significa ‘Dios está con nosotros’ e indica una garantía de la presencia permanente de Dios y continuidad del pacto.",
+      "B": "Significa ‘Dios nos abandona’ e indica el fin definitivo del pacto.",
+      "C": "Significa ‘Dios es lejano’ e indica que Dios no habitará con su pueblo."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "Según la unidad, ¿cuál de estas afirmaciones resume mejor cómo los gentiles participarían de la salvación?",
+    "options": {
+      "A": "Serían atraídos para compartir la bendición: el Siervo sería luz a las naciones y las naciones vendrían a Sión/Jerusalén.",
+      "B": "Serían excluidos para siempre por no pertenecer a Israel.",
+      "C": "Solo podrían participar adoptando primero la ciudadanía persa."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Después del exilio (a partir de 538 a. C.), ¿qué describe la unidad como una realidad histórica y su evaluación teológica?",
+    "options": {
+      "A": "Los exiliados regresan, reconstruyen con oposición y estímulo profético; aun así, el cumplimiento es solo una sombra y se espera más.",
+      "B": "No hubo regreso ni reconstrucción; todo terminó definitivamente en Babilonia.",
+      "C": "El retorno trajo inmediatamente la plenitud final sin necesidad de esperar nada más."
+    },
+    "answer": "A"
+  }
+]

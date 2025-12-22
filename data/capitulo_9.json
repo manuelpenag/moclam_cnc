@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": "Según la unidad, ¿hacia dónde se dirige toda la historia bíblica desde Génesis hasta Apocalipsis?",
+    "options": {
+      "A": "Hacia la restauración total de la creación bajo el gobierno de Dios.",
+      "B": "Hacia la desaparición definitiva del mundo material.",
+      "C": "Hacia un ciclo infinito sin propósito final."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "La unidad afirma que la esperanza cristiana NO consiste principalmente en:",
+    "options": {
+      "A": "Escapar del mundo para vivir solo en una realidad espiritual.",
+      "B": "La resurrección y la renovación de la creación.",
+      "C": "La derrota definitiva del mal."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Según el capítulo, ¿qué relación existe entre la resurrección de Jesús y la nueva creación?",
+    "options": {
+      "A": "La resurrección de Jesús es el inicio (primicias) de la nueva creación.",
+      "B": "No existe ninguna relación entre ambas.",
+      "C": "La resurrección solo afecta a Jesús, no al resto de la creación."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "Romanos 8:18-25 es citado para mostrar que la creación:",
+    "options": {
+      "A": "Gime y espera su liberación junto con los hijos de Dios.",
+      "B": "Ya fue completamente destruida por el pecado.",
+      "C": "No tiene relación con la redención humana."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "Según la unidad, ¿qué se promete respecto al cuerpo humano en la consumación final?",
+    "options": {
+      "A": "La resurrección corporal, no solo espiritual.",
+      "B": "La eliminación definitiva del cuerpo.",
+      "C": "La reencarnación en otra forma de vida."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "La unidad enseña que la salvación final incluye:",
+    "options": {
+      "A": "Personas redimidas viviendo en una creación renovada.",
+      "B": "Almas sin cuerpo en un estado eterno sin mundo.",
+      "C": "Solo un juicio sin restauración."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Según Apocalipsis 21–22, ¿qué imagen central describe el futuro definitivo?",
+    "options": {
+      "A": "Cielos nuevos y tierra nueva.",
+      "B": "Un retorno al huerto del Edén sin humanidad.",
+      "C": "Una ciudad destruida para siempre."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "La Nueva Jerusalén desciende del cielo para indicar que:",
+    "options": {
+      "A": "Dios viene a habitar con la humanidad en la creación renovada.",
+      "B": "La humanidad debe escapar de la tierra.",
+      "C": "El cielo reemplaza completamente a la tierra."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Según el capítulo, ¿qué aspecto clave se restaura plenamente en la nueva creación?",
+    "options": {
+      "A": "La relación entre Dios y su pueblo.",
+      "B": "La autonomía humana sin Dios.",
+      "C": "El dominio del mal."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "En Apocalipsis 21:3-4, ¿qué promesa se destaca respecto al sufrimiento?",
+    "options": {
+      "A": "Dios enjugará toda lágrima y no habrá más muerte, dolor ni clamor.",
+      "B": "El sufrimiento será eterno.",
+      "C": "El sufrimiento solo afectará a algunos pueblos."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "La unidad recalca que el juicio final de Dios tiene como propósito principal:",
+    "options": {
+      "A": "Eliminar definitivamente el mal y restaurar la justicia.",
+      "B": "Castigar sin ningún fin redentor.",
+      "C": "Anular todas las promesas previas."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Según el capítulo, ¿quiénes participan de la herencia de la nueva creación?",
+    "options": {
+      "A": "Los que están en Cristo.",
+      "B": "Solo Israel étnico.",
+      "C": "Solo seres espirituales."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "La unidad conecta la nueva creación con el reino de Dios mostrando que:",
+    "options": {
+      "A": "El reino se consuma plenamente en la nueva creación.",
+      "B": "El reino termina antes de la consumación.",
+      "C": "El reino es solo una metáfora ética."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "Según el texto, la victoria final de Dios incluye:",
+    "options": {
+      "A": "La derrota de Satanás, la muerte y el pecado.",
+      "B": "La convivencia eterna entre el bien y el mal.",
+      "C": "La supremacía definitiva de los imperios humanos."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "La unidad enfatiza que la esperanza futura motiva al creyente a:",
+    "options": {
+      "A": "Vivir fielmente en el presente como anticipo de la nueva creación.",
+      "B": "Desentenderse del mundo actual.",
+      "C": "Postergar toda obediencia hasta el futuro."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Según el capítulo, ¿qué continuidad existe entre la creación original y la nueva creación?",
+    "options": {
+      "A": "Dios restaura y renueva, no desecha su creación.",
+      "B": "Dios abandona completamente la creación original.",
+      "C": "No existe ninguna continuidad entre ambas."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "La resurrección final de los creyentes se describe como:",
+    "options": {
+      "A": "Una transformación gloriosa del cuerpo.",
+      "B": "Una liberación definitiva del cuerpo.",
+      "C": "Un evento simbólico sin realidad futura."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "La unidad subraya que la nueva creación es:",
+    "options": {
+      "A": "Tanto un don futuro como una esperanza que comienza a vivirse ahora.",
+      "B": "Exclusivamente futura sin impacto presente.",
+      "C": "Solo una idea poética sin implicaciones reales."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "Según el capítulo, ¿qué rol cumple el Espíritu Santo en relación con la esperanza futura?",
+    "options": {
+      "A": "Es garantía y anticipo (arras) de la herencia futura.",
+      "B": "No tiene ningún rol en la consumación.",
+      "C": "Actúa solo en el pasado bíblico."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "La unidad señala que la ética cristiana se basa en:",
+    "options": {
+      "A": "Vivir hoy conforme a la realidad futura prometida por Dios.",
+      "B": "Adaptarse completamente a los valores del mundo.",
+      "C": "Ignorar toda responsabilidad presente."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Según Apocalipsis 22, ¿qué imagen reaparece de Génesis para mostrar restauración?",
+    "options": {
+      "A": "El árbol de la vida.",
+      "B": "La torre de Babel.",
+      "C": "El diluvio."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "La unidad afirma que en la nueva creación:",
+    "options": {
+      "A": "No habrá más maldición.",
+      "B": "La maldición continuará parcialmente.",
+      "C": "La creación seguirá sujeta al pecado."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "Según el capítulo, la esperanza cristiana culmina en:",
+    "options": {
+      "A": "Dios habitando con su pueblo para siempre.",
+      "B": "La autosuficiencia humana.",
+      "C": "El olvido de la historia de la salvación."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "La unidad concluye que la visión bíblica del futuro es:",
+    "options": {
+      "A": "Profundamente esperanzadora y transformadora para el presente.",
+      "B": "Pesimista y sin impacto en la vida actual.",
+      "C": "Solo relevante para estudios académicos."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Finalmente, el capítulo recalca que la nueva creación confirma que:",
+    "options": {
+      "A": "Dios es fiel y cumple plenamente todas sus promesas.",
+      "B": "Las promesas de Dios fueron simbólicas y no literales.",
+      "C": "El plan de Dios quedó inconcluso."
+    },
+    "answer": "A"
+  }
+]
