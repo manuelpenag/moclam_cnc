@@ -6,10 +6,15 @@ from pathlib import Path
 st.set_page_config(page_title="MOCLAM Quiz", layout="centered")
 
 BASE_DIR = Path(__file__).parent
-DATA_DIR = BASE_DIR / "data"
+DATA_SOURCES = {
+    "Preguntas generadas": BASE_DIR / "data",
+    "Preguntas libro": BASE_DIR / "data2",
+}
 
-def load_questions(chapter: int):
-    path = DATA_DIR / f"capitulo_{chapter}.json"
+def load_questions(chapter: int, data_dir: Path):
+    path = data_dir / f"capitulo_{chapter}.json"
+    if not path.exists():
+        raise FileNotFoundError(path)
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -24,6 +29,11 @@ if "questions" not in st.session_state:
     st.session_state.questions = []
 if "idx" not in st.session_state:
     st.session_state.idx = 0
+
+if "data_source_label" not in st.session_state:
+    st.session_state.data_source_label = "Preguntas generadas"
+if "load_error" not in st.session_state:
+    st.session_state.load_error = None
 
 if "user_answers" not in st.session_state:
     st.session_state.user_answers = {}  # {qkey: "A"/"B"/"C"}
@@ -45,6 +55,14 @@ if "last_correct" not in st.session_state:
 # Sidebar
 # -------------------------
 st.sidebar.title("📘 MOCLAM Quiz")
+
+source_options = list(DATA_SOURCES.keys())
+source_index = source_options.index(st.session_state.data_source_label) if st.session_state.data_source_label in DATA_SOURCES else 0
+data_source_label = st.sidebar.radio(
+    "Banco de preguntas",
+    source_options,
+    index=source_index
+)
 
 chapter = st.sidebar.selectbox(
     "Capítulo",
@@ -80,19 +98,28 @@ lock_next_until_answer = st.sidebar.toggle(
 if st.sidebar.button("Comenzar / Reiniciar", key="btn_start"):
     st.session_state.chapter = chapter
     st.session_state.mode = mode
-
-    qs = load_questions(chapter)  # en orden del JSON
-    if order_mode == "Aleatorias":
-        random.shuffle(qs)
-
-    st.session_state.questions = qs[:min(nq, len(qs))]
-    st.session_state.idx = 0
+    st.session_state.data_source_label = data_source_label
+    st.session_state.load_error = None
 
     st.session_state.user_answers = {}
     st.session_state.active_qkey = None
     st.session_state.current_choice = "A"
     st.session_state.answered = False
     st.session_state.last_correct = None
+
+    data_dir = DATA_SOURCES[data_source_label]
+    try:
+        qs = load_questions(chapter, data_dir)  # en orden del JSON
+    except FileNotFoundError:
+        st.session_state.questions = []
+        st.session_state.idx = 0
+        st.session_state.load_error = f"No se encontro capitulo_{chapter}.json en {data_dir.name}."
+    else:
+        if order_mode == "Aleatorias":
+            random.shuffle(qs)
+
+        st.session_state.questions = qs[:min(nq, len(qs))]
+        st.session_state.idx = 0
 
 # -------------------------
 # Main
@@ -101,6 +128,9 @@ st.title("MOCLAM – De Creación a Nueva Creación")
 st.caption("Quiz de alternativas (A/B/C).")
 
 if not st.session_state.questions:
+    if st.session_state.load_error:
+        st.error(st.session_state.load_error)
+        st.stop()
     st.info("Elige capítulo y presiona **Comenzar / Reiniciar**.")
     st.stop()
 

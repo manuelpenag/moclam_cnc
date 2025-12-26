@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "question": "Según la Unidad 5, ¿cuáles son los dos principios que han obrado en la historia de Israel desde su redención de Egipto?",
+    "options": {
+      "A": "El avance constante de la fidelidad del pueblo y la infidelidad de Dios.",
+      "B": "La repetida deslealtad del pueblo hacia Dios y la constante fidelidad de Dios a sus promesas hechas a Abraham, Isaac y Jacob.",
+      "C": "El aislamiento geográfico de Israel y su superioridad militar sobre las naciones vecinas."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Según la sección 1.1, ¿cuál fue la primera acción de David después de ser aceptado como rey de todo Israel?",
+    "options": {
+      "A": "Construir inmediatamente el templo en Jerusalén.",
+      "B": "Tomar la ciudad de Jerusalén (que no pertenecía a ninguna tribu) y convertirla en la ciudad real de todo Israel, la “Ciudad de David”.",
+      "C": "Trasladar la capital a Samaria para unificar a las tribus."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Según la Unidad 5 (2 Samuel 5:12), ¿qué tres cosas se deben observar sobre el establecimiento del reinado de David?",
+    "options": {
+      "A": "El valor militar de David, la debilidad de los filisteos y la riqueza de Jerusalén.",
+      "B": "La fe de David, la acción de Dios (engrandeciendo su reino) y el propósito de Dios (por amor a su pueblo Israel).",
+      "C": "La sabiduría de Salomón, la construcción del templo y la división del reino."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "¿Qué acción de David muestra que su reinado tuvo un comienzo diferente al de Saúl, según la Unidad 5?",
+    "options": {
+      "A": "Levantó altares a otros dioses para ganar alianzas políticas.",
+      "B": "Llevó el arca de Dios a Jerusalén, reconociendo con alegría que su reinado era un obsequio de Dios y que el verdadero rey era Dios.",
+      "C": "Prohibió la adoración en Jerusalén para centralizar el poder en Hebrón."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Según la Unidad 5 (2 Samuel 7:4-17), ¿cuál describe mejor las promesas importantes que Dios hizo a David?",
+    "options": {
+      "A": "Dios prometió que David nunca moriría y que Israel no sufriría más dificultades.",
+      "B": "Dios prometió afirmar el trono de David, dar descanso y un lugar seguro a su pueblo, y establecer una dinastía: un descendiente de David construiría el templo y su reino sería confirmado “para siempre”.",
+      "C": "Dios prometió trasladar el arca a Betel y establecer allí el centro de adoración de Israel."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "¿Por qué, según la Unidad 5, estas promesas a David son fundamentales para comprender el resto de la historia bíblica?",
+    "options": {
+      "A": "Porque a partir de ellas el propósito de Dios incluye un rey ungido del linaje de David: el origen de la esperanza mesiánica.",
+      "B": "Porque eliminan por completo la necesidad de profetas en Israel.",
+      "C": "Porque explican únicamente la administración económica del reino de Salomón."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Según la Unidad 5, ¿qué enseña el Salmo 2 acerca del Mesías y por qué se considera una declaración de fe?",
+    "options": {
+      "A": "Enseña que el Mesías no tendrá relación con Dios y que su reino será solo local; es declaración de fe porque rechaza las promesas.",
+      "B": "Enseña que la hostilidad de las naciones contra el rey ungido es, en realidad, contra Dios; afirma al rey como “Hijo” y su dominio hasta los confines de la tierra; es declaración de fe porque sostiene la importancia del rey según las promesas, aun cuando ningún rey las ha cumplido plenamente.",
+      "C": "Enseña que el Mesías será un sacerdote levita y que el templo dejará de tener importancia; es declaración de fe porque elimina la obediencia."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Según la Unidad 5, ¿cuál fue el resultado del pecado de David respecto de la bendición prometida?",
+    "options": {
+      "A": "El pecado de David no tuvo consecuencias históricas y la bendición se experimentó plenamente.",
+      "B": "Aunque David fue perdonado, los hechos posteriores muestran su caída y cómo el pecado humano impidió que el pueblo disfrutara plenamente de la bendición prometida.",
+      "C": "El pecado de David llevó a la abolición inmediata del reino y del linaje davídico."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "Según la sección 2.1, ¿cómo empezó el reinado de Salomón?",
+    "options": {
+      "A": "Con una rebelión abierta contra Dios y una prohibición de pedir sabiduría.",
+      "B": "Con gran promesa: consciente de la gracia de Dios, Salomón respondió pidiendo sabiduría; Dios prometió un reino grande y glorioso si él permanecía en sus caminos.",
+      "C": "Con la instauración de dos centros de adoración en Dan y Betel."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Según la Unidad 5, ¿qué significaba la construcción del templo y cuál era su importancia en 1 Reyes 8:14-53?",
+    "options": {
+      "A": "Era solo un proyecto arquitectónico sin relación con el pacto; su importancia era meramente política.",
+      "B": "Fue el gran logro de Salomón: el templo cumplía promesas, simbolizaba la presencia prometida de Dios, era lugar donde Dios podía ser conocido; y, mediante el perdón, desde allí se divulgaría el conocimiento de Dios a “todos los pueblos de la tierra”.",
+      "C": "Era una señal de que Dios ya no se relacionaría con Israel, por lo que el pueblo dejó de necesitar perdón."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "Según la Unidad 5, ¿cómo se relacionan las descripciones del reino de Salomón (1 R 4:22-25; 10:6-9; 10:23-25) con el concepto de la bendición de Dios?",
+    "options": {
+      "A": "Son evidencia de que la bendición de Dios depende solo de alianzas militares con naciones vecinas.",
+      "B": "Ilustran la bendición de Dios en prosperidad, paz y fama: la reina de Sabá reconoció su grandeza y muchos acudieron a escuchar su sabiduría.",
+      "C": "Demuestran que la bendición de Dios se limita a la construcción de murallas defensivas."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Según la Unidad 5 (1 Reyes 12:1-24), ¿qué secuencia de hechos llevó a la división del reino?",
+    "options": {
+      "A": "Salomón fue destronado por Asiria y Jeroboam tomó Jerusalén.",
+      "B": "Tras la muerte de Salomón, Roboam ascendió al trono; Roboam quedó como rey de Judá y el resto de Israel nombró rey a Jeroboam, cumpliéndose el juicio anunciado, en parte por la insensatez de Roboam y, en última instancia, por la obra de Dios.",
+      "C": "David dividió el reino en vida para evitar conflictos y Salomón gobernó solo el norte."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "Según la sección 3.2, ¿cuál fue el pecado de Jeroboam que dominó la historia del reino del norte (Israel)?",
+    "options": {
+      "A": "Centralizar la adoración en Jerusalén para obedecer el pacto.",
+      "B": "Erigir ídolos en Betel y Dan para reemplazar el culto en Jerusalén, haciendo pecar al pueblo y violando el segundo mandamiento.",
+      "C": "Restaurar el arca del pacto y establecer un sacerdocio fiel en Samaria."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Según la sección 3.3, ¿por qué fue diferente la situación de Judá en contraste con la de Israel?",
+    "options": {
+      "A": "Porque Judá nunca tuvo reyes profanos ni cometió pecado alguno.",
+      "B": "Porque las promesas que Dios hizo a David no debían olvidarse y Dios las confirmó aun cuando anunció juicio; su propósito no había sido abandonado.",
+      "C": "Porque Judá trasladó el templo a Dan, evitando así el juicio."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Según la sección 3.4, ¿qué determinó el transcurso de la historia de Judá e Israel?",
+    "options": {
+      "A": "Las estrategias comerciales de las ciudades costeras del Mediterráneo.",
+      "B": "La palabra de Dios comunicada por medio de los profetas, que explica finalmente el curso de los acontecimientos históricos.",
+      "C": "El desarrollo de la metalurgia y el armamento de hierro."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Según 2 Reyes 17:13 citado en la Unidad 5, ¿cuál fue la función básica de los profetas?",
+    "options": {
+      "A": "Declarar que la obediencia ya no era necesaria y que la idolatría era aceptable.",
+      "B": "Advertir al pueblo y llamar a la nación a volver a Dios, al camino de la obediencia a sus mandamientos, único camino de bendición.",
+      "C": "Reemplazar a los reyes como gobernantes militares permanentes."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Según la Unidad 5, ¿cuál resume mejor el mensaje de Amós y Oseas en Israel?",
+    "options": {
+      "A": "Ambos anunciaron paz inmediata sin necesidad de arrepentimiento.",
+      "B": "Amós anunció el juicio de Dios (especialmente sobre Israel) y, aun así, recordó que las promesas a David no habían sido olvidadas; Oseas proclamó el amor de Dios despreciado, por lo que vendría juicio, pero no sería el fin de la relación entre Dios y su pueblo.",
+      "C": "Ambos enseñaron que Jeroboam actuó correctamente al establecer ídolos en Dan y Betel."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "Según la sección 5.1, ¿cuál fue el mensaje principal de Isaías?",
+    "options": {
+      "A": "Que Dios no es santo y que el pecado del pueblo no tiene importancia.",
+      "B": "Que Dios es santo (“El Santo de Israel”) y el pueblo es pecaminoso; por no temer y confiar en él, el juicio vendría, aunque no sería el fin definitivo.",
+      "C": "Que la única solución era imitar la idolatría de las naciones vecinas."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Según la sección 5.2–5.3, ¿por qué Judá caería al igual que Israel?",
+    "options": {
+      "A": "Porque Judá fue invadida en el siglo VIII a. C. por los filisteos, antes de tener profetas.",
+      "B": "Porque la maldad de Manasés fue tan grande que la culpa no pudo eliminarse ni siquiera con la reforma de Josías; por eso Judá sería juzgada.",
+      "C": "Porque Judá obedeció perfectamente la ley y, aun así, Dios decidió castigarla sin razón."
+    },
+    "answer": "B"
+  }
+]

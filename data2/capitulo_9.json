@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "question": "Según la Unidad 9, ¿cuál es la relación entre Jesús y el plan de Dios revelado en el Antiguo Testamento?",
+    "options": {
+      "A": "Jesús reemplaza las promesas del Antiguo Testamento por un plan completamente nuevo e independiente de Israel.",
+      "B": "Jesús cumple el plan de Dios para restaurar a Israel y bendecir a las naciones, inaugurando el reino de Dios.",
+      "C": "Jesús solo confirma la ley de Moisés sin relación con la restauración de Israel ni con las naciones."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál es el propósito general de las cartas del Nuevo Testamento (y el Apocalipsis) según la Unidad 9?",
+    "options": {
+      "A": "Reemplazar a los Evangelios porque estos no explican suficientemente el mensaje de Jesús.",
+      "B": "Abordar la tensión “ahora/no todavía” del reino y explicar cómo deben vivir los cristianos a la luz de esa tensión.",
+      "C": "Presentar una cronología política detallada del Imperio Romano para ubicar la iglesia en la historia."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Según la Unidad 9, ¿por qué Pablo escribió la mayoría de sus cartas?",
+    "options": {
+      "A": "Para registrar principalmente sus experiencias personales de viaje sin tratar problemas de iglesias.",
+      "B": "En respuesta a problemas específicos surgidos en iglesias fundadas durante su actividad misionera (con Filemón como excepción personal).",
+      "C": "Para crear un manual universal de gobierno civil dirigido a autoridades políticas."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Según la Unidad 9 (Romanos 15:15-16), ¿por qué Pablo podía escribir con “atrevimiento”?",
+    "options": {
+      "A": "Porque tenía autoridad política romana para imponer disciplina a las iglesias.",
+      "B": "Porque la gracia de Dios le dio el ministerio de servir a los gentiles y ejercer un servicio sacerdotal del evangelio.",
+      "C": "Porque había recibido una revelación secreta superior a la de los otros apóstoles."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Según la Unidad 9, ¿qué característica común resume el propósito del resto de las cartas de Pablo (más allá de temas específicos)?",
+    "options": {
+      "A": "Proponen soluciones que solo funcionaban para el siglo I y ya no tienen aplicación hoy.",
+      "B": "Exponen las consecuencias del evangelio para enfrentar problemas reales y llaman a creer en el evangelio y vivir de acuerdo con él.",
+      "C": "Se enfocan casi exclusivamente en rituales del templo y normas dietéticas como centro de la vida cristiana."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Según la Unidad 9, ¿qué esperaban muchos judíos del primer siglo respecto a la venida del Mesías?",
+    "options": {
+      "A": "Una sola venida final que trajera juicio, eliminara a los pecadores, renovara el mundo y estableciera plenamente el reino.",
+      "B": "Dos venidas separadas: primero para reinar políticamente en Jerusalén y después para morir por los pecados.",
+      "C": "Un Mesías que no tendría relación con el reino de Dios ni con el juicio final."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Según la Unidad 9, ¿qué enseñaron Jesús y los apóstoles sobre la era de salvación?",
+    "options": {
+      "A": "Que la era de salvación solo comenzaría después de la segunda venida; antes de eso no hay bendiciones disponibles.",
+      "B": "Que las bendiciones del reino ya están disponibles, pero su plenitud (con juicio y renovación total) llegará con la segunda venida.",
+      "C": "Que la era de salvación ya terminó por completo con la primera venida y no queda nada futuro por esperar."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Según la Unidad 9, cuando Cristo regrese, ¿qué pasará con los rebeldes?",
+    "options": {
+      "A": "Serán ignorados y simplemente continuarán viviendo sin cambios.",
+      "B": "Serán juzgados y castigados; el regreso de Cristo incluye juicio y eliminación del mal.",
+      "C": "Serán automáticamente recompensados porque el juicio solo aplica a los creyentes."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "Según la Unidad 9, cuando Cristo regrese, ¿qué pasará con los creyentes?",
+    "options": {
+      "A": "Serán glorificados con Cristo y participarán plenamente de la herencia del reino.",
+      "B": "Perderán su ciudadanía celestial y volverán al estado anterior a la fe.",
+      "C": "Seguirán igual, porque la resurrección ya no tiene relevancia futura."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Según la Unidad 9, cuando Cristo regrese, ¿qué pasará con la creación?",
+    "options": {
+      "A": "Será liberada de la corrupción y renovada, asociada a la consumación del reino.",
+      "B": "Será destruida sin reemplazo y el propósito de Dios terminará allí.",
+      "C": "Permanecerá exactamente igual porque la salvación solo trata del alma humana."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "Según la Unidad 9, ¿cuáles son las tres perspectivas del Nuevo Testamento sobre los cristianos?",
+    "options": {
+      "A": "Son principalmente líderes políticos; son dueños de la tierra; y son jueces civiles de las naciones.",
+      "B": "Han sido librados del dominio de la oscuridad; son ciudadanos del reino celestial; y han muerto/resucitado con Cristo para vivir la nueva vida.",
+      "C": "Son ángeles encarnados; son inmunes al sufrimiento; y no esperan ningún futuro retorno de Cristo."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Según la Unidad 9 (Colosenses 3:1-4), ¿qué pauta ética central se desprende para la vida cristiana?",
+    "options": {
+      "A": "La ética cristiana es un programa para reformar el orden secular y dominar la política.",
+      "B": "La ética cristiana fluye de la posición en Cristo: buscar las cosas de arriba, hacer morir lo terrenal y vestirse del estilo de vida del reino.",
+      "C": "La ética cristiana se reduce a cumplir tradiciones culturales sin referencia al reino de Dios."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "Según la Unidad 9, ¿cómo se describe Hebreos en cuanto a su forma y propósito?",
+    "options": {
+      "A": "Es un poema litúrgico sin aplicación práctica, dirigido a lectores no creyentes.",
+      "B": "Es una “palabra de exhortación”, más parecida a un sermón/homilía escrita que expone textos del Antiguo Testamento para mostrar su cumplimiento en Cristo y llamar a perseverar.",
+      "C": "Es una crónica histórica del templo, escrita para justificar el retorno obligatorio al judaísmo."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Según la Unidad 9, ¿qué tienen en común Santiago, Judas y Pedro?",
+    "options": {
+      "A": "Son cartas privadas dirigidas solo a un individuo específico y sin circulación en iglesias.",
+      "B": "Son cartas generales para circular entre varias iglesias y tratan problemas como falsa enseñanza, mal comportamiento y persecución, aplicando el evangelio y el Antiguo Testamento.",
+      "C": "Son tratados filosóficos sin conexión con problemas concretos de las iglesias."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Según la Unidad 9, ¿qué describe la unidad como contenido/propósito inmediato del Apocalipsis?",
+    "options": {
+      "A": "Un manual administrativo para organizar oficios eclesiásticos en Roma.",
+      "B": "Un libro profético dirigido a siete iglesias de Asia Menor, con advertencias e incentivos del Cristo resucitado por medio de Juan.",
+      "C": "Una colección de proverbios sapienciales sin relación con la vida de la iglesia."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Según la Unidad 9, ¿para qué está diseñado el simbolismo apocalíptico y cómo lo usa Juan?",
+    "options": {
+      "A": "Para ocultar cualquier verdad espiritual y evitar que el lector entienda el mensaje.",
+      "B": "Para comunicar la realidad espiritual detrás del mundo visible; Juan usa símbolos (bestias, dragón, Babilonia) para retratar poderes del mal y contrasta su destino con el triunfo del Cordero.",
+      "C": "Para reemplazar completamente el Antiguo Testamento por imágenes sin relación con las Escrituras previas."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Según la Unidad 9, ¿cuál es el desafío central que Juan presenta a sus lectores creyentes?",
+    "options": {
+      "A": "Buscar seguridad mediante compromisos con el poder del mundo, aunque implique idolatría.",
+      "B": "Permanecer fieles al Cordero y resistir la presión de adorar a los poderes del mal, perseverando aun bajo persecución.",
+      "C": "Abandonar la esperanza futura, ya que el final no tiene relevancia para la vida cristiana."
+    },
+    "answer": "B"
+  }
+]

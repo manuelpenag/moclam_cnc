@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuáles son los diferentes tipos de literatura que se encuentran en la Biblia (según la Unidad 1)?",
+    "options": {
+      "A": "Solo leyes y narraciones históricas, sin poesía ni cartas.",
+      "B": "Una variedad amplia: narraciones, leyes, rituales, poesía/cantos, sermones, profecías, sabiduría, parábolas, cartas y genealogías.",
+      "C": "Principalmente mitos religiosos sin géneros literarios distinguibles."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "¿Cuándo fueron escritos los libros de la Biblia (según la Unidad 1)?",
+    "options": {
+      "A": "Todos fueron escritos en el siglo I d. C. por los apóstoles.",
+      "B": "Desde la época de Moisés (siglo XV a. C.) hasta finales del siglo I d. C., en un periodo aproximado de 1.600 años.",
+      "C": "Entre los siglos V y III a. C., cuando se tradujo la Septuaginta."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Según la Unidad 1, ¿los diferentes autores y épocas de escritura indican teologías o ideas contradictorias entre sí?",
+    "options": {
+      "A": "Sí, muestran una ruptura total de temas y no existe una unidad general.",
+      "B": "No necesariamente: pese a la diversidad, hay un desarrollo sorprendente de temas comunes y una unidad total.",
+      "C": "Sí, porque el orden actual de los libros demuestra que fueron escritos exactamente en ese orden."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "¿Cuál es el tema que unifica la Biblia, según la Unidad 1?",
+    "options": {
+      "A": "La superioridad cultural de Israel sobre las demás naciones.",
+      "B": "El desarrollo del plan o propósito de Dios: sus acciones misericordiosas para anular los efectos del pecado humano y establecer una nueva creación (reino de Dios).",
+      "C": "Un manual de rituales centrado únicamente en el templo."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál es el clímax de ese tema unificador, según la Unidad 1?",
+    "options": {
+      "A": "La conquista de Canaán en Josué.",
+      "B": "El ministerio de Jesucristo, donde el plan de salvación llega a su culminación y cumplimiento (vida, muerte y resurrección).",
+      "C": "La traducción de la Septuaginta en el siglo III a. C."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "¿Cuáles son las principales divisiones del Antiguo Testamento en la Biblia en español y en la Biblia hebrea (según la Unidad 1)?",
+    "options": {
+      "A": "Español: Ley, Profetas, Escritos; Hebrea: Históricos, Poesía, Proféticos.",
+      "B": "Español (orden Septuaginta): Libros históricos, poesía diversa, libros proféticos; Hebrea: Ley (Torá), Profetas (anteriores y posteriores) y Escritos.",
+      "C": "Español y Hebrea: exactamente las mismas divisiones y en el mismo orden."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "¿Qué libros componen la Torá y qué significa esta palabra, según la Unidad 1?",
+    "options": {
+      "A": "Josué–2 Reyes; significa “historia nacional”.",
+      "B": "Génesis, Éxodo, Levítico, Números y Deuteronomio; “Torá” se entiende como ‘Ley’/enseñanza básica de Dios (no solo reglas).",
+      "C": "Salmos, Proverbios, Job, Eclesiastés y Cantar; significa “sabiduría”."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Según la Unidad 1, ¿cuál resume mejor la enseñanza básica de la Torá?",
+    "options": {
+      "A": "Una colección de proverbios sobre la vida diaria sin conexión histórica.",
+      "B": "Relata creación y caída; luego el llamado a Abraham para traer bendición; el éxodo bajo Moisés y la entrega de enseñanzas para ser nación santa; y la conducción a Canaán.",
+      "C": "Un registro del exilio en Babilonia y la reconstrucción de Jerusalén."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "¿Qué libros forman los Profetas Anteriores y por qué se les llama libros proféticos (según la Unidad 1)?",
+    "options": {
+      "A": "Isaías–Malaquías; porque contienen predicciones del futuro sin historia.",
+      "B": "Josué, Jueces, 1–2 Samuel y 1–2 Reyes; porque narran la historia desde el punto de vista de Dios y resaltan a quienes hablan la Palabra de Dios en el plan divino.",
+      "C": "Rut, Ester, Daniel, Esdras y Nehemías; porque son libros de poesía profética."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál conjunto de resúmenes coincide con el enfoque que la Unidad 1 da a los libros de los Profetas Anteriores?",
+    "options": {
+      "A": "Josué/Jueces: exilio y retorno; 1–2 Samuel: leyes del Sinaí; 1–2 Reyes: poemas y cantos del templo.",
+      "B": "Josué/Jueces: conquista de Canaán; 1–2 Samuel: historia de Israel y vínculo del gobierno de Dios con los reyes del linaje de David; 1–2 Reyes: división, rebelión y camino al juicio/exilio.",
+      "C": "Josué/Jueces: cartas apostólicas; 1–2 Samuel: evangelios; 1–2 Reyes: apocalipsis."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "¿Por qué la historia de las tribus terminó en el exilio, según la Unidad 1?",
+    "options": {
+      "A": "Porque Israel decidió voluntariamente abandonar la tierra para expandirse por el mundo.",
+      "B": "Porque la continua rebelión contra Dios trajo su juicio: el norte cayó ante Asiria (722 a. C.) y Judá fue exiliada a Babilonia desde 597 a. C. en adelante.",
+      "C": "Porque el templo fue destruido durante el éxodo de Egipto."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "¿Cuál fue la labor de los Profetas Posteriores, según la Unidad 1?",
+    "options": {
+      "A": "Escribir genealogías y cantos exclusivamente para el culto del templo.",
+      "B": "Aclarar la razón del juicio divino sobre Israel y revelar los planes de Dios para el futuro de su pueblo (antes, durante y después del cautiverio).",
+      "C": "Reordenar los libros del Antiguo Testamento según la Septuaginta."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "¿Qué lograría el rey del linaje de David (el Mesías), según la Unidad 1?",
+    "options": {
+      "A": "Restaurar únicamente la independencia política de Israel sin implicaciones espirituales.",
+      "B": "Reinar en perfecta justicia, traer paz y salvación e implantar el reino de Dios, con bendición para toda la creación (nuevos cielos y nueva tierra) e inclusión de las naciones.",
+      "C": "Eliminar la necesidad de toda profecía y de toda enseñanza escrita."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Según la Unidad 1, ¿cuál fue la misión de Hageo, Zacarías y Malaquías?",
+    "options": {
+      "A": "Convencer a Israel de abandonar la reconstrucción porque el plan de Dios había fracasado.",
+      "B": "Incentivar a la gente (postexilio) a creer que los planes de Dios están en proceso, aunque el momento más importante aún estaba por llegar.",
+      "C": "Escribir los Evangelios y comenzar la iglesia cristiana."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "¿Cuáles son las dos categorías de los Escritos en la Biblia hebrea y de qué tratan, según la Unidad 1?",
+    "options": {
+      "A": "Milagros y parábolas; tratan exclusivamente del ministerio de Jesús.",
+      "B": "Literatura sapiencial (temas universales como sufrimiento, muerte, amistad, amor, sabiduría) y el resto de los Escritos (exilio babilónico y lo que ocurre después: restauración, planes de Dios, retorno).",
+      "C": "Leyes civiles y leyes ceremoniales; tratan del mismo material que la Torá."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Según la Unidad 1, ¿cuál es la relación entre Jesús y el Antiguo Testamento?",
+    "options": {
+      "A": "Jesús reemplaza el Antiguo Testamento, por lo que ya no tiene valor ni autoridad.",
+      "B": "Los propósitos de Dios revelados en el Antiguo Testamento se cumplieron en la persona y obra de Jesucristo; los Evangelios muestran cómo su vida cumple las Escrituras.",
+      "C": "Jesús citó el Antiguo Testamento solo como literatura, no como autoridad."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "¿Qué es el evangelio, según la Unidad 1?",
+    "options": {
+      "A": "Una recopilación de leyes del Sinaí para regular la vida nacional de Israel.",
+      "B": "La proclamación de la importancia de la vida, la muerte y la resurrección de Jesús, presentada en forma cuádruple por Mateo, Marcos, Lucas y Juan.",
+      "C": "Un conjunto de proverbios y poemas para la vida diaria."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "Según la Unidad 1, ¿de qué tratan los otros escritos apostólicos y cuál es la relación entre Hechos y los demás escritos?",
+    "options": {
+      "A": "Tratan solo de genealogías; Hechos no se relaciona con ellos.",
+      "B": "Hechos (complemento de Lucas) muestra cómo el mensaje de Cristo se llevó al mundo y sirve de nexo con las cartas; las cartas abordan problemas prácticos/doctrinales, explican la obra de Cristo, muestran cumplimiento de promesas y esperan su regreso; Apocalipsis concluye enfocándose en Jesús glorificado y el futuro.",
+      "C": "Tratan principalmente de rituales del templo; Hechos explica cómo reconstruir Jerusalén."
+    },
+    "answer": "B"
+  }
+]

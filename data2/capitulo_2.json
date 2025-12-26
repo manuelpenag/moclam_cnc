@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué involucra el compromiso de Dios para con su creación (según la Unidad 2)?",
+    "options": {
+      "A": "Que Dios crea y luego se desentiende del mundo.",
+      "B": "Que Dios sostiene su creación y desarrolla un plan de salvación que finalmente bendice a todas las naciones.",
+      "C": "Que Dios solo se interesa por Israel y no por el resto de la humanidad."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "¿Por qué es necesaria la salvación (según la Unidad 2)?",
+    "options": {
+      "A": "Porque la humanidad fue creada imperfecta desde el inicio.",
+      "B": "Porque la humanidad se rebeló contra Dios y esa rebelión trae consecuencias que requieren rescate y restauración.",
+      "C": "Porque el diluvio eliminó la maldad por completo y faltaba una explicación teológica."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué se entiende por la creación de Dios y cómo fue hecha (según la Unidad 2)?",
+    "options": {
+      "A": "Dios reorganizó materia preexistente que ya existía por sí misma.",
+      "B": "Dios creó “los cielos y la tierra” por su palabra, creando de la nada.",
+      "C": "Dios solo creó lo espiritual; lo material surgió por evolución sin intervención divina."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "¿Qué implican las frases “y dijo Dios… y fue así” y “y vio Dios que era bueno” (según la Unidad 2)?",
+    "options": {
+      "A": "Que la creación fue un proceso incierto y experimental.",
+      "B": "Que Dios tiene control soberano y que lo creado cumple sus buenos propósitos.",
+      "C": "Que la creación fue buena solo hasta el día sexto, pero no antes."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "¿Para qué fue creada la humanidad (según la Unidad 2)?",
+    "options": {
+      "A": "Solo para poblar la tierra sin ninguna responsabilidad especial.",
+      "B": "Para una relación especial con Dios y para ejercer dominio como su imagen, administrando la creación.",
+      "C": "Para vivir aislada del resto de la creación, sin interactuar con ella."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "¿Qué significa tener dominio sobre el mundo (según la Unidad 2)?",
+    "options": {
+      "A": "Tener permiso para explotar la creación sin límites.",
+      "B": "Representar a Dios: cuidar y administrar la creación (“labrar” y “guardar”).",
+      "C": "Rechazar el trabajo y dedicarse únicamente al descanso."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "¿Qué implica el inmenso honor que Dios ha dado a la humanidad (según la Unidad 2)?",
+    "options": {
+      "A": "Que solo algunos seres humanos tienen valor especial.",
+      "B": "Que debemos tratar a todas las personas con dignidad y cuidado por el valor que Dios les da.",
+      "C": "Que la dignidad humana depende del poder o la riqueza."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "¿Qué significado tiene el relato del reposo de Dios (Gn 2:1–3) según la Unidad 2?",
+    "options": {
+      "A": "Que Dios se cansó físicamente y necesitó recuperar fuerzas.",
+      "B": "Que el propósito final no es solo producir, sino vivir en relación plena con Dios; anticipa el descanso final de la nueva creación.",
+      "C": "Que el reposo reemplaza por completo el trabajo humano."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "¿Cómo termina el plan de Dios para la humanidad (según la Unidad 2)?",
+    "options": {
+      "A": "Con una destrucción definitiva del mundo material.",
+      "B": "Con restauración total y nueva creación: relaciones recompuestas y descanso final con Dios.",
+      "C": "Con la desaparición de toda responsabilidad humana."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál es el tema central de Génesis 2 (según la Unidad 2)?",
+    "options": {
+      "A": "La lista de reyes de Israel y sus guerras.",
+      "B": "Las responsabilidades humanas y el ideal de relaciones: humanidad–creación, humanidad–Dios y hombre–mujer.",
+      "C": "La explicación detallada del calendario de fiestas israelitas."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "Según la Unidad 2, ¿cuál describe mejor las relaciones ideales (humanidad–creación; humanidad–Dios; hombre–mujer)?",
+    "options": {
+      "A": "Dominar sin límites; ignorar la palabra de Dios; competir y desconfiar en el matrimonio.",
+      "B": "Labrar y guardar la creación; vivir bajo la palabra de Dios; complementariedad y gozo en el matrimonio.",
+      "C": "Evitar todo trabajo; reemplazar la obediencia por independencia; disolver todo vínculo matrimonial."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "¿Cuáles son los pasos que llevó a Eva al pecado (según la Unidad 2)?",
+    "options": {
+      "A": "Duda de la palabra de Dios, la niega y finalmente desobedece; luego arrastra a Adán.",
+      "B": "Busca consejo en Noé, decide esperar y luego obedece.",
+      "C": "Solo comete un error accidental sin proceso interno."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "¿Cuáles son las consecuencias del pecado en las relaciones (según la Unidad 2)?",
+    "options": {
+      "A": "No hay efectos reales; todo sigue igual.",
+      "B": "Ruptura con Dios (vergüenza/expulsión), conflicto con el prójimo (culpa/violencia) y deterioro de la relación con la creación (trabajo con dolor).",
+      "C": "Solo afecta a los animales, pero no a la humanidad."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "¿Qué esperanza hay en Génesis 3:14–15 y quién la hizo realidad (según la Unidad 2)?",
+    "options": {
+      "A": "Que Israel construiría una torre para llegar al cielo, y lo cumplió Nimrod.",
+      "B": "Que la descendencia de la mujer vencerá a la serpiente; Cristo la hizo realidad por su obra (vida, muerte y resurrección).",
+      "C": "Que el diluvio eliminaría el pecado para siempre; Noé lo logró con el arca."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "¿Qué se muestra en Génesis 4–11 (según la Unidad 2)?",
+    "options": {
+      "A": "Un mundo cada vez más fiel y justo sin intervención divina.",
+      "B": "El avance del pecado y el patrón pecado → juicio → misericordia.",
+      "C": "La fundación del templo de Jerusalén y el sacerdocio levítico."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "¿Cómo se puede describir el juicio universal de Génesis 6 y por qué Dios decidió mandarlo (según la Unidad 2)?",
+    "options": {
+      "A": "Fue un juicio menor por errores pequeños; Dios actuó sin razón.",
+      "B": "Fue un juicio amplio porque la maldad humana se volvió extrema; funciona como una inversión del orden creado.",
+      "C": "Fue un castigo solo para una ciudad específica por un conflicto político."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "¿Qué demuestra la gracia de Dios en medio de su juicio (según la Unidad 2)?",
+    "options": {
+      "A": "Que Dios nunca juzga y siempre ignora el pecado.",
+      "B": "Que Dios preserva vida: salva a Noé y su familia y mantiene su compromiso con la creación.",
+      "C": "Que Dios elimina toda posibilidad de un nuevo comienzo."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "¿Cuál es la importancia del lenguaje de Génesis 9:1–7 y qué patrón bíblico se ve (según la Unidad 2)?",
+    "options": {
+      "A": "No tiene conexión con Génesis 1; muestra un patrón de caos sin propósito.",
+      "B": "Recuerda Génesis 1:26–30 (multiplicarse y dominio) y muestra el patrón de salvación a través de juicio, como un “nuevo comienzo”.",
+      "C": "Solo introduce reglas alimentarias sin relación con el resto del relato."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "¿Qué nos muestra que el juicio del diluvio no resolvió el problema del pecado (según la Unidad 2)?",
+    "options": {
+      "A": "Que después del diluvio no hubo más pecado ni orgullo humano.",
+      "B": "Que reaparece la arrogancia humana (Babel: “hagámonos un nombre”), buscando un mundo coherente dejando a Dios fuera.",
+      "C": "Que el mundo volvió al Edén inmediatamente sin consecuencias."
+    },
+    "answer": "B"
+  }
+]
